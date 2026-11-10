@@ -1,0 +1,2001 @@
+course_id,course_name,semester,predicted_demand,planned_sections,allocated_sections,unallocated_sections,allocated_capacity,unmet_demand
+CRS-000001,Python Programming,1,35,1,1,0,60,0
+CRS-000001,Python Programming,2,35,1,1,0,60,0
+CRS-000002,Java Programming,1,42,1,1,0,60,0
+CRS-000002,Java Programming,2,35,1,1,0,60,0
+CRS-000003,Database Management Systems,1,36,1,1,0,40,0
+CRS-000003,Database Management Systems,2,41,2,2,0,80,0
+CRS-000004,Data Structures,1,47,2,2,0,80,0
+CRS-000004,Data Structures,2,43,2,2,0,80,0
+CRS-000005,Computer Networks,1,44,1,1,0,60,0
+CRS-000005,Computer Networks,2,34,1,1,0,60,0
+CRS-000006,Operating Systems,1,40,1,1,0,75,0
+CRS-000006,Operating Systems,2,38,1,1,0,75,0
+CRS-000007,Software Engineering,1,52,2,2,0,60,0
+CRS-000007,Software Engineering,2,44,2,2,0,60,0
+CRS-000008,Web Development,1,43,2,2,0,60,0
+CRS-000008,Web Development,2,38,2,2,0,60,0
+CRS-000009,Machine Learning,1,32,1,1,0,60,0
+CRS-000009,Machine Learning,2,50,1,1,0,60,0
+CRS-000010,Artificial Intelligence,1,34,1,1,0,75,0
+CRS-000010,Artificial Intelligence,2,42,1,1,0,75,0
+CRS-000011,Python Programming,1,66,2,2,0,100,0
+CRS-000011,Python Programming,2,49,1,1,0,50,0
+CRS-000012,Java Programming,1,59,2,2,0,100,0
+CRS-000012,Java Programming,2,46,1,1,0,50,0
+CRS-000013,Database Management Systems,1,53,2,2,0,100,0
+CRS-000013,Database Management Systems,2,40,1,1,0,50,0
+CRS-000014,Data Structures,1,52,2,2,0,60,0
+CRS-000014,Data Structures,2,44,2,2,0,60,0
+CRS-000015,Computer Networks,1,56,2,2,0,100,0
+CRS-000015,Computer Networks,2,42,1,1,0,50,0
+CRS-000016,Operating Systems,1,51,2,2,0,100,0
+CRS-000016,Operating Systems,2,34,1,1,0,50,0
+CRS-000017,Software Engineering,1,67,3,3,0,90,0
+CRS-000017,Software Engineering,2,49,2,2,0,60,0
+CRS-000018,Web Development,1,64,1,1,0,75,0
+CRS-000018,Web Development,2,45,1,1,0,75,0
+CRS-000019,Machine Learning,1,52,1,1,0,75,0
+CRS-000019,Machine Learning,2,43,1,1,0,75,0
+CRS-000020,Artificial Intelligence,1,58,2,2,0,100,0
+CRS-000020,Artificial Intelligence,2,35,1,1,0,50,0
+CRS-000021,Python Programming,1,48,2,2,0,80,0
+CRS-000021,Python Programming,2,47,2,2,0,80,0
+CRS-000022,Java Programming,1,45,2,2,0,60,0
+CRS-000022,Java Programming,2,43,2,2,0,60,0
+CRS-000023,Database Management Systems,1,51,2,2,0,100,0
+CRS-000023,Database Management Systems,2,49,1,1,0,50,0
+CRS-000024,Data Structures,1,44,2,2,0,80,0
+CRS-000024,Data Structures,2,46,2,2,0,80,0
+CRS-000025,Computer Networks,1,48,1,1,0,50,0
+CRS-000025,Computer Networks,2,52,2,2,0,100,0
+CRS-000026,Operating Systems,1,46,1,1,0,75,0
+CRS-000026,Operating Systems,2,41,1,1,0,75,0
+CRS-000027,Software Engineering,1,41,2,2,0,60,0
+CRS-000027,Software Engineering,2,49,2,2,0,60,0
+CRS-000028,Web Development,1,45,1,1,0,60,0
+CRS-000028,Web Development,2,53,1,1,0,60,0
+CRS-000029,Machine Learning,1,43,1,1,0,50,0
+CRS-000029,Machine Learning,2,51,2,2,0,100,0
+CRS-000030,Artificial Intelligence,1,40,1,1,0,50,0
+CRS-000030,Artificial Intelligence,2,51,2,2,0,100,0
+CRS-000031,Python Programming,1,40,1,1,0,60,0
+CRS-000031,Python Programming,2,37,1,1,0,60,0
+CRS-000032,Java Programming,1,40,1,1,0,60,0
+CRS-000032,Java Programming,2,35,1,1,0,60,0
+CRS-000033,Database Management Systems,1,41,2,2,0,60,0
+CRS-000033,Database Management Systems,2,46,2,2,0,60,0
+CRS-000034,Data Structures,1,34,1,1,0,75,0
+CRS-000034,Data Structures,2,30,1,1,0,75,0
+CRS-000035,Computer Networks,1,36,2,2,0,60,0
+CRS-000035,Computer Networks,2,36,2,2,0,60,0
+CRS-000036,Operating Systems,1,36,2,2,0,60,0
+CRS-000036,Operating Systems,2,30,1,1,0,30,0
+CRS-000037,Software Engineering,1,36,1,1,0,75,0
+CRS-000037,Software Engineering,2,49,1,1,0,75,0
+CRS-000038,Web Development,1,40,1,1,0,75,0
+CRS-000038,Web Development,2,34,1,1,0,75,0
+CRS-000039,Machine Learning,1,41,2,2,0,60,0
+CRS-000039,Machine Learning,2,42,2,2,0,60,0
+CRS-000040,Artificial Intelligence,1,34,1,1,0,50,0
+CRS-000040,Artificial Intelligence,2,35,1,1,0,50,0
+CRS-000041,Python Programming,1,51,1,1,0,60,0
+CRS-000041,Python Programming,2,37,1,1,0,60,0
+CRS-000042,Java Programming,1,45,1,1,0,50,0
+CRS-000042,Java Programming,2,40,1,1,0,50,0
+CRS-000043,Database Management Systems,1,50,1,1,0,50,0
+CRS-000043,Database Management Systems,2,53,2,2,0,100,0
+CRS-000044,Data Structures,1,49,2,2,0,60,0
+CRS-000044,Data Structures,2,41,2,2,0,60,0
+CRS-000045,Computer Networks,1,47,1,1,0,50,0
+CRS-000045,Computer Networks,2,52,2,2,0,100,0
+CRS-000046,Operating Systems,1,48,2,2,0,80,0
+CRS-000046,Operating Systems,2,46,2,2,0,80,0
+CRS-000047,Software Engineering,1,34,2,2,0,60,0
+CRS-000047,Software Engineering,2,37,2,2,0,60,0
+CRS-000048,Web Development,1,46,1,1,0,50,0
+CRS-000048,Web Development,2,43,1,1,0,50,0
+CRS-000049,Machine Learning,1,43,1,1,0,50,0
+CRS-000049,Machine Learning,2,43,1,1,0,50,0
+CRS-000050,Artificial Intelligence,1,45,1,1,0,60,0
+CRS-000050,Artificial Intelligence,2,46,1,1,0,60,0
+CRS-000051,Python Programming,1,42,2,2,0,80,0
+CRS-000051,Python Programming,2,45,2,2,0,80,0
+CRS-000052,Java Programming,1,48,2,2,0,60,0
+CRS-000052,Java Programming,2,39,2,2,0,60,0
+CRS-000053,Database Management Systems,1,43,2,2,0,60,0
+CRS-000053,Database Management Systems,2,42,2,2,0,60,0
+CRS-000054,Data Structures,1,42,2,2,0,60,0
+CRS-000054,Data Structures,2,40,2,2,0,60,0
+CRS-000055,Computer Networks,1,43,1,1,0,60,0
+CRS-000055,Computer Networks,2,49,1,1,0,60,0
+CRS-000056,Operating Systems,1,38,1,1,0,50,0
+CRS-000056,Operating Systems,2,34,1,1,0,50,0
+CRS-000057,Software Engineering,1,46,2,2,0,80,0
+CRS-000057,Software Engineering,2,34,1,1,0,40,0
+CRS-000058,Web Development,1,42,1,1,0,75,0
+CRS-000058,Web Development,2,40,1,1,0,75,0
+CRS-000059,Machine Learning,1,42,1,1,0,75,0
+CRS-000059,Machine Learning,2,34,1,1,0,75,0
+CRS-000060,Artificial Intelligence,1,43,1,1,0,75,0
+CRS-000060,Artificial Intelligence,2,39,1,1,0,75,0
+CRS-000061,Python Programming,1,39,1,1,0,50,0
+CRS-000061,Python Programming,2,54,2,2,0,100,0
+CRS-000062,Java Programming,1,35,2,2,0,60,0
+CRS-000062,Java Programming,2,46,2,2,0,60,0
+CRS-000063,Database Management Systems,1,42,2,2,0,60,0
+CRS-000063,Database Management Systems,2,52,2,2,0,60,0
+CRS-000064,Data Structures,1,43,2,2,0,80,0
+CRS-000064,Data Structures,2,37,1,1,0,40,0
+CRS-000065,Computer Networks,1,45,1,1,0,60,0
+CRS-000065,Computer Networks,2,42,1,1,0,60,0
+CRS-000066,Operating Systems,1,41,1,1,0,50,0
+CRS-000066,Operating Systems,2,48,1,1,0,50,0
+CRS-000067,Software Engineering,1,32,1,1,0,40,0
+CRS-000067,Software Engineering,2,45,2,2,0,80,0
+CRS-000068,Web Development,1,37,2,2,0,60,0
+CRS-000068,Web Development,2,38,2,2,0,60,0
+CRS-000069,Machine Learning,1,46,2,2,0,80,0
+CRS-000069,Machine Learning,2,45,2,2,0,80,0
+CRS-000070,Artificial Intelligence,1,33,1,1,0,40,0
+CRS-000070,Artificial Intelligence,2,43,2,2,0,80,0
+CRS-000071,Python Programming,1,37,1,1,0,60,0
+CRS-000071,Python Programming,2,36,1,1,0,60,0
+CRS-000072,Java Programming,1,52,2,2,0,80,0
+CRS-000072,Java Programming,2,28,1,1,0,40,0
+CRS-000073,Database Management Systems,1,48,2,2,0,60,0
+CRS-000073,Database Management Systems,2,31,2,2,0,60,0
+CRS-000074,Data Structures,1,43,2,2,0,60,0
+CRS-000074,Data Structures,2,41,2,2,0,60,0
+CRS-000075,Computer Networks,1,44,2,2,0,80,0
+CRS-000075,Computer Networks,2,29,1,1,0,40,0
+CRS-000076,Operating Systems,1,49,2,2,0,60,0
+CRS-000076,Operating Systems,2,40,2,2,0,60,0
+CRS-000077,Software Engineering,1,46,1,1,0,50,0
+CRS-000077,Software Engineering,2,38,1,1,0,50,0
+CRS-000078,Web Development,1,47,2,2,0,60,0
+CRS-000078,Web Development,2,24,1,1,0,30,0
+CRS-000079,Machine Learning,1,38,1,1,0,50,0
+CRS-000079,Machine Learning,2,33,1,1,0,50,0
+CRS-000080,Artificial Intelligence,1,42,2,2,0,80,0
+CRS-000080,Artificial Intelligence,2,36,1,1,0,40,0
+CRS-000081,Python Programming,1,49,1,1,0,75,0
+CRS-000081,Python Programming,2,37,1,1,0,75,0
+CRS-000082,Java Programming,1,42,1,1,0,50,0
+CRS-000082,Java Programming,2,49,1,1,0,50,0
+CRS-000083,Database Management Systems,1,43,1,1,0,60,0
+CRS-000083,Database Management Systems,2,46,1,1,0,60,0
+CRS-000084,Data Structures,1,48,2,2,0,80,0
+CRS-000084,Data Structures,2,45,2,2,0,80,0
+CRS-000085,Computer Networks,1,44,1,1,0,50,0
+CRS-000085,Computer Networks,2,43,1,1,0,50,0
+CRS-000086,Operating Systems,1,40,1,1,0,40,0
+CRS-000086,Operating Systems,2,45,2,2,0,80,0
+CRS-000087,Software Engineering,1,34,2,2,0,60,0
+CRS-000087,Software Engineering,2,33,2,2,0,60,0
+CRS-000088,Web Development,1,41,2,2,0,80,0
+CRS-000088,Web Development,2,43,2,2,0,80,0
+CRS-000089,Machine Learning,1,40,1,1,0,60,0
+CRS-000089,Machine Learning,2,44,1,1,0,60,0
+CRS-000090,Artificial Intelligence,1,34,1,1,0,60,0
+CRS-000090,Artificial Intelligence,2,36,1,1,0,60,0
+CRS-000091,Python Programming,1,37,1,1,0,60,0
+CRS-000091,Python Programming,2,45,1,1,0,60,0
+CRS-000092,Java Programming,1,47,1,1,0,50,0
+CRS-000092,Java Programming,2,46,1,1,0,50,0
+CRS-000093,Database Management Systems,1,41,1,1,0,60,0
+CRS-000093,Database Management Systems,2,41,1,1,0,60,0
+CRS-000094,Data Structures,1,45,2,2,0,80,0
+CRS-000094,Data Structures,2,39,1,1,0,40,0
+CRS-000095,Computer Networks,1,44,2,2,0,80,0
+CRS-000095,Computer Networks,2,55,2,2,0,80,0
+CRS-000096,Operating Systems,1,33,1,1,0,75,0
+CRS-000096,Operating Systems,2,41,1,1,0,75,0
+CRS-000097,Software Engineering,1,46,2,2,0,60,0
+CRS-000097,Software Engineering,2,35,2,2,0,60,0
+CRS-000098,Web Development,1,37,1,1,0,60,0
+CRS-000098,Web Development,2,37,1,1,0,60,0
+CRS-000099,Machine Learning,1,39,1,1,0,75,0
+CRS-000099,Machine Learning,2,39,1,1,0,75,0
+CRS-000100,Artificial Intelligence,1,40,1,1,0,75,0
+CRS-000100,Artificial Intelligence,2,34,1,1,0,75,0
+CRS-000101,Python Programming,1,52,2,2,0,80,0
+CRS-000101,Python Programming,2,60,2,2,0,80,0
+CRS-000102,Java Programming,1,33,1,1,0,50,0
+CRS-000102,Java Programming,2,50,1,1,0,50,0
+CRS-000103,Database Management Systems,1,34,1,1,0,75,0
+CRS-000103,Database Management Systems,2,48,1,1,0,75,0
+CRS-000104,Data Structures,1,38,1,1,0,40,0
+CRS-000104,Data Structures,2,47,2,2,0,80,0
+CRS-000105,Computer Networks,1,42,1,1,0,75,0
+CRS-000105,Computer Networks,2,50,1,1,0,75,0
+CRS-000106,Operating Systems,1,43,2,2,0,60,0
+CRS-000106,Operating Systems,2,44,2,2,0,60,0
+CRS-000107,Software Engineering,1,47,2,2,0,80,0
+CRS-000107,Software Engineering,2,47,2,2,0,80,0
+CRS-000108,Web Development,1,38,1,1,0,75,0
+CRS-000108,Web Development,2,44,1,1,0,75,0
+CRS-000109,Machine Learning,1,32,1,1,0,50,0
+CRS-000109,Machine Learning,2,42,1,1,0,50,0
+CRS-000110,Artificial Intelligence,1,44,2,2,0,80,0
+CRS-000110,Artificial Intelligence,2,55,2,2,0,80,0
+CRS-000111,Python Programming,1,44,1,1,0,60,0
+CRS-000111,Python Programming,2,45,1,1,0,60,0
+CRS-000112,Java Programming,1,62,1,1,0,75,0
+CRS-000112,Java Programming,2,50,1,1,0,75,0
+CRS-000113,Database Management Systems,1,30,1,1,0,50,0
+CRS-000113,Database Management Systems,2,45,1,1,0,50,0
+CRS-000114,Data Structures,1,41,2,2,0,60,0
+CRS-000114,Data Structures,2,48,2,2,0,60,0
+CRS-000115,Computer Networks,1,34,1,1,0,75,0
+CRS-000115,Computer Networks,2,45,1,1,0,75,0
+CRS-000116,Operating Systems,1,38,1,1,0,75,0
+CRS-000116,Operating Systems,2,38,1,1,0,75,0
+CRS-000117,Software Engineering,1,50,2,2,0,60,0
+CRS-000117,Software Engineering,2,41,2,2,0,60,0
+CRS-000118,Web Development,1,41,2,2,0,80,0
+CRS-000118,Web Development,2,49,2,2,0,80,0
+CRS-000119,Machine Learning,1,40,2,2,0,60,0
+CRS-000119,Machine Learning,2,41,2,2,0,60,0
+CRS-000120,Artificial Intelligence,1,39,1,1,0,40,0
+CRS-000120,Artificial Intelligence,2,42,2,2,0,80,0
+CRS-000121,Python Programming,1,37,1,1,0,60,0
+CRS-000121,Python Programming,2,45,1,1,0,60,0
+CRS-000122,Java Programming,1,40,1,1,0,50,0
+CRS-000122,Java Programming,2,45,1,1,0,50,0
+CRS-000123,Database Management Systems,1,35,1,1,0,50,0
+CRS-000123,Database Management Systems,2,46,1,1,0,50,0
+CRS-000124,Data Structures,1,38,1,1,0,40,0
+CRS-000124,Data Structures,2,43,2,2,0,80,0
+CRS-000125,Computer Networks,1,42,1,1,0,60,0
+CRS-000125,Computer Networks,2,49,1,1,0,60,0
+CRS-000126,Operating Systems,1,41,1,1,0,60,0
+CRS-000126,Operating Systems,2,41,1,1,0,60,0
+CRS-000127,Software Engineering,1,37,1,1,0,60,0
+CRS-000127,Software Engineering,2,48,1,1,0,60,0
+CRS-000128,Web Development,1,33,1,1,0,40,0
+CRS-000128,Web Development,2,47,2,2,0,80,0
+CRS-000129,Machine Learning,1,39,1,1,0,40,0
+CRS-000129,Machine Learning,2,46,2,2,0,80,0
+CRS-000130,Artificial Intelligence,1,44,1,1,0,50,0
+CRS-000130,Artificial Intelligence,2,47,1,1,0,50,0
+CRS-000131,Python Programming,1,26,1,1,0,30,0
+CRS-000131,Python Programming,2,39,2,2,0,60,0
+CRS-000132,Java Programming,1,30,1,1,0,75,0
+CRS-000132,Java Programming,2,33,1,1,0,75,0
+CRS-000133,Database Management Systems,1,36,2,2,0,60,0
+CRS-000133,Database Management Systems,2,31,2,2,0,60,0
+CRS-000134,Data Structures,1,39,1,1,0,40,0
+CRS-000134,Data Structures,2,43,2,2,0,80,0
+CRS-000135,Computer Networks,1,31,2,2,0,60,0
+CRS-000135,Computer Networks,2,44,2,2,0,60,0
+CRS-000136,Operating Systems,1,30,1,1,0,40,0
+CRS-000136,Operating Systems,2,38,1,1,0,40,0
+CRS-000137,Software Engineering,1,37,1,1,0,75,0
+CRS-000137,Software Engineering,2,43,1,1,0,75,0
+CRS-000138,Web Development,1,42,1,1,0,75,0
+CRS-000138,Web Development,2,37,1,1,0,75,0
+CRS-000139,Machine Learning,1,30,1,1,0,75,0
+CRS-000139,Machine Learning,2,41,1,1,0,75,0
+CRS-000140,Artificial Intelligence,1,31,1,1,0,40,0
+CRS-000140,Artificial Intelligence,2,26,1,1,0,40,0
+CRS-000141,Python Programming,1,50,1,1,0,50,0
+CRS-000141,Python Programming,2,53,2,2,0,100,0
+CRS-000142,Java Programming,1,41,1,1,0,75,0
+CRS-000142,Java Programming,2,56,1,1,0,75,0
+CRS-000143,Database Management Systems,1,52,2,2,0,60,0
+CRS-000143,Database Management Systems,2,44,2,2,0,60,0
+CRS-000144,Data Structures,1,42,2,2,0,60,0
+CRS-000144,Data Structures,2,44,2,2,0,60,0
+CRS-000145,Computer Networks,1,45,2,2,0,80,0
+CRS-000145,Computer Networks,2,56,2,2,0,80,0
+CRS-000146,Operating Systems,1,41,2,2,0,60,0
+CRS-000146,Operating Systems,2,48,2,2,0,60,0
+CRS-000147,Software Engineering,1,42,1,1,0,50,0
+CRS-000147,Software Engineering,2,43,1,1,0,50,0
+CRS-000148,Web Development,1,41,2,2,0,60,0
+CRS-000148,Web Development,2,49,2,2,0,60,0
+CRS-000149,Machine Learning,1,39,1,1,0,50,0
+CRS-000149,Machine Learning,2,48,1,1,0,50,0
+CRS-000150,Artificial Intelligence,1,43,2,2,0,60,0
+CRS-000150,Artificial Intelligence,2,45,2,2,0,60,0
+CRS-000151,Python Programming,1,39,1,1,0,50,0
+CRS-000151,Python Programming,2,48,1,1,0,50,0
+CRS-000152,Java Programming,1,44,2,2,0,80,0
+CRS-000152,Java Programming,2,49,2,2,0,80,0
+CRS-000153,Database Management Systems,1,46,1,1,0,60,0
+CRS-000153,Database Management Systems,2,28,1,1,0,60,0
+CRS-000154,Data Structures,1,36,1,1,0,60,0
+CRS-000154,Data Structures,2,44,1,1,0,60,0
+CRS-000155,Computer Networks,1,42,1,1,0,60,0
+CRS-000155,Computer Networks,2,49,1,1,0,60,0
+CRS-000156,Operating Systems,1,38,1,1,0,40,0
+CRS-000156,Operating Systems,2,52,2,2,0,80,0
+CRS-000157,Software Engineering,1,48,1,1,0,50,0
+CRS-000157,Software Engineering,2,54,2,2,0,100,0
+CRS-000158,Web Development,1,36,1,1,0,50,0
+CRS-000158,Web Development,2,51,2,2,0,100,0
+CRS-000159,Machine Learning,1,40,1,1,0,75,0
+CRS-000159,Machine Learning,2,58,1,1,0,75,0
+CRS-000160,Artificial Intelligence,1,49,1,1,0,50,0
+CRS-000160,Artificial Intelligence,2,43,1,1,0,50,0
+CRS-000161,Python Programming,1,32,1,1,0,60,0
+CRS-000161,Python Programming,2,41,1,1,0,60,0
+CRS-000162,Java Programming,1,39,1,1,0,40,0
+CRS-000162,Java Programming,2,52,2,2,0,80,0
+CRS-000163,Database Management Systems,1,28,1,1,0,30,0
+CRS-000163,Database Management Systems,2,51,2,2,0,60,0
+CRS-000164,Data Structures,1,35,1,1,0,60,0
+CRS-000164,Data Structures,2,47,1,1,0,60,0
+CRS-000165,Computer Networks,1,33,1,1,0,40,0
+CRS-000165,Computer Networks,2,42,2,2,0,80,0
+CRS-000166,Operating Systems,1,38,1,1,0,75,0
+CRS-000166,Operating Systems,2,54,1,1,0,75,0
+CRS-000167,Software Engineering,1,30,1,1,0,40,0
+CRS-000167,Software Engineering,2,45,2,2,0,80,0
+CRS-000168,Web Development,1,39,1,1,0,40,0
+CRS-000168,Web Development,2,26,1,1,0,40,0
+CRS-000169,Machine Learning,1,26,1,1,0,40,0
+CRS-000169,Machine Learning,2,38,1,1,0,40,0
+CRS-000170,Artificial Intelligence,1,29,1,1,0,60,0
+CRS-000170,Artificial Intelligence,2,45,1,1,0,60,0
+CRS-000171,Python Programming,1,43,1,1,0,60,0
+CRS-000171,Python Programming,2,47,1,1,0,60,0
+CRS-000172,Java Programming,1,38,1,1,0,60,0
+CRS-000172,Java Programming,2,40,1,1,0,60,0
+CRS-000173,Database Management Systems,1,31,2,2,0,60,0
+CRS-000173,Database Management Systems,2,43,2,2,0,60,0
+CRS-000174,Data Structures,1,37,2,2,0,60,0
+CRS-000174,Data Structures,2,52,2,2,0,60,0
+CRS-000175,Computer Networks,1,44,1,1,0,60,0
+CRS-000175,Computer Networks,2,38,1,1,0,60,0
+CRS-000176,Operating Systems,1,36,1,1,0,60,0
+CRS-000176,Operating Systems,2,36,1,1,0,60,0
+CRS-000177,Software Engineering,1,41,1,1,0,75,0
+CRS-000177,Software Engineering,2,44,1,1,0,75,0
+CRS-000178,Web Development,1,45,1,1,0,50,0
+CRS-000178,Web Development,2,43,1,1,0,50,0
+CRS-000179,Machine Learning,1,35,2,2,0,60,0
+CRS-000179,Machine Learning,2,44,2,2,0,60,0
+CRS-000180,Artificial Intelligence,1,33,1,1,0,75,0
+CRS-000180,Artificial Intelligence,2,41,1,1,0,75,0
+CRS-000181,Python Programming,1,51,2,2,0,80,0
+CRS-000181,Python Programming,2,46,2,2,0,80,0
+CRS-000182,Java Programming,1,48,2,2,0,60,0
+CRS-000182,Java Programming,2,47,2,2,0,60,0
+CRS-000183,Database Management Systems,1,42,1,1,0,75,0
+CRS-000183,Database Management Systems,2,36,1,1,0,75,0
+CRS-000184,Data Structures,1,48,1,1,0,50,0
+CRS-000184,Data Structures,2,42,1,1,0,50,0
+CRS-000185,Computer Networks,1,54,2,2,0,60,0
+CRS-000185,Computer Networks,2,44,2,2,0,60,0
+CRS-000186,Operating Systems,1,44,1,1,0,60,0
+CRS-000186,Operating Systems,2,38,1,1,0,60,0
+CRS-000187,Software Engineering,1,54,2,2,0,100,0
+CRS-000187,Software Engineering,2,43,1,1,0,50,0
+CRS-000188,Web Development,1,57,2,2,0,80,0
+CRS-000188,Web Development,2,44,2,2,0,80,0
+CRS-000189,Machine Learning,1,40,1,1,0,50,0
+CRS-000189,Machine Learning,2,40,1,1,0,50,0
+CRS-000190,Artificial Intelligence,1,42,1,1,0,50,0
+CRS-000190,Artificial Intelligence,2,42,1,1,0,50,0
+CRS-000191,Python Programming,1,38,1,1,0,60,0
+CRS-000191,Python Programming,2,45,1,1,0,60,0
+CRS-000192,Java Programming,1,44,2,2,0,80,0
+CRS-000192,Java Programming,2,53,2,2,0,80,0
+CRS-000193,Database Management Systems,1,41,2,2,0,80,0
+CRS-000193,Database Management Systems,2,51,2,2,0,80,0
+CRS-000194,Data Structures,1,46,2,2,0,60,0
+CRS-000194,Data Structures,2,48,2,2,0,60,0
+CRS-000195,Computer Networks,1,48,1,1,0,60,0
+CRS-000195,Computer Networks,2,63,2,2,0,120,0
+CRS-000196,Operating Systems,1,38,1,1,0,40,0
+CRS-000196,Operating Systems,2,47,2,2,0,80,0
+CRS-000197,Software Engineering,1,43,1,1,0,75,0
+CRS-000197,Software Engineering,2,54,1,1,0,75,0
+CRS-000198,Web Development,1,43,1,1,0,60,0
+CRS-000198,Web Development,2,46,1,1,0,60,0
+CRS-000199,Machine Learning,1,40,1,1,0,50,0
+CRS-000199,Machine Learning,2,57,2,2,0,100,0
+CRS-000200,Artificial Intelligence,1,35,1,1,0,50,0
+CRS-000200,Artificial Intelligence,2,48,1,1,0,50,0
+CRS-000201,Python Programming,1,50,1,1,0,75,0
+CRS-000201,Python Programming,2,48,1,1,0,75,0
+CRS-000202,Java Programming,1,32,1,1,0,50,0
+CRS-000202,Java Programming,2,42,1,1,0,50,0
+CRS-000203,Database Management Systems,1,48,2,2,0,60,0
+CRS-000203,Database Management Systems,2,31,2,2,0,60,0
+CRS-000204,Data Structures,1,39,2,2,0,60,0
+CRS-000204,Data Structures,2,46,2,2,0,60,0
+CRS-000205,Computer Networks,1,40,2,2,0,60,0
+CRS-000205,Computer Networks,2,41,2,2,0,60,0
+CRS-000206,Operating Systems,1,43,2,2,0,80,0
+CRS-000206,Operating Systems,2,36,1,1,0,40,0
+CRS-000207,Software Engineering,1,41,1,1,0,60,0
+CRS-000207,Software Engineering,2,41,1,1,0,60,0
+CRS-000208,Web Development,1,46,2,2,0,60,0
+CRS-000208,Web Development,2,53,2,2,0,60,0
+CRS-000209,Machine Learning,1,44,2,2,0,80,0
+CRS-000209,Machine Learning,2,41,2,2,0,80,0
+CRS-000210,Artificial Intelligence,1,44,2,2,0,80,0
+CRS-000210,Artificial Intelligence,2,44,2,2,0,80,0
+CRS-000211,Python Programming,1,51,1,1,0,60,0
+CRS-000211,Python Programming,2,49,1,1,0,60,0
+CRS-000212,Java Programming,1,56,2,2,0,80,0
+CRS-000212,Java Programming,2,45,2,2,0,80,0
+CRS-000213,Database Management Systems,1,46,1,1,0,60,0
+CRS-000213,Database Management Systems,2,49,1,1,0,60,0
+CRS-000214,Data Structures,1,49,1,1,0,60,0
+CRS-000214,Data Structures,2,52,1,1,0,60,0
+CRS-000215,Computer Networks,1,37,1,1,0,75,0
+CRS-000215,Computer Networks,2,45,1,1,0,75,0
+CRS-000216,Operating Systems,1,50,2,2,0,80,0
+CRS-000216,Operating Systems,2,46,2,2,0,80,0
+CRS-000217,Software Engineering,1,50,2,2,0,80,0
+CRS-000217,Software Engineering,2,43,2,2,0,80,0
+CRS-000218,Web Development,1,46,2,2,0,60,0
+CRS-000218,Web Development,2,33,2,2,0,60,0
+CRS-000219,Machine Learning,1,56,1,1,0,75,0
+CRS-000219,Machine Learning,2,54,1,1,0,75,0
+CRS-000220,Artificial Intelligence,1,51,2,2,0,60,0
+CRS-000220,Artificial Intelligence,2,47,2,2,0,60,0
+CRS-000221,Python Programming,1,52,2,2,0,100,0
+CRS-000221,Python Programming,2,35,1,1,0,50,0
+CRS-000222,Java Programming,1,42,2,2,0,80,0
+CRS-000222,Java Programming,2,38,1,1,0,40,0
+CRS-000223,Database Management Systems,1,47,2,2,0,80,0
+CRS-000223,Database Management Systems,2,42,2,2,0,80,0
+CRS-000224,Data Structures,1,42,1,1,0,75,0
+CRS-000224,Data Structures,2,39,1,1,0,75,0
+CRS-000225,Computer Networks,1,52,2,2,0,60,0
+CRS-000225,Computer Networks,2,39,2,2,0,60,0
+CRS-000226,Operating Systems,1,53,1,1,0,75,0
+CRS-000226,Operating Systems,2,39,1,1,0,75,0
+CRS-000227,Software Engineering,1,48,1,1,0,50,0
+CRS-000227,Software Engineering,2,43,1,1,0,50,0
+CRS-000228,Web Development,1,48,1,1,0,50,0
+CRS-000228,Web Development,2,43,1,1,0,50,0
+CRS-000229,Machine Learning,1,44,2,2,0,80,0
+CRS-000229,Machine Learning,2,32,1,1,0,40,0
+CRS-000230,Artificial Intelligence,1,45,1,1,0,50,0
+CRS-000230,Artificial Intelligence,2,42,1,1,0,50,0
+CRS-000231,Python Programming,1,48,1,1,0,75,0
+CRS-000231,Python Programming,2,43,1,1,0,75,0
+CRS-000232,Java Programming,1,39,1,1,0,75,0
+CRS-000232,Java Programming,2,39,1,1,0,75,0
+CRS-000233,Database Management Systems,1,38,1,1,0,60,0
+CRS-000233,Database Management Systems,2,35,1,1,0,60,0
+CRS-000234,Data Structures,1,38,1,1,0,40,0
+CRS-000234,Data Structures,2,45,2,2,0,80,0
+CRS-000235,Computer Networks,1,30,1,1,0,50,0
+CRS-000235,Computer Networks,2,28,1,1,0,50,0
+CRS-000236,Operating Systems,1,45,1,1,0,60,0
+CRS-000236,Operating Systems,2,42,1,1,0,60,0
+CRS-000237,Software Engineering,1,36,1,1,0,60,0
+CRS-000237,Software Engineering,2,37,1,1,0,60,0
+CRS-000238,Web Development,1,32,1,1,0,40,0
+CRS-000238,Web Development,2,39,1,1,0,40,0
+CRS-000239,Machine Learning,1,38,1,1,0,60,0
+CRS-000239,Machine Learning,2,39,1,1,0,60,0
+CRS-000240,Artificial Intelligence,1,40,1,1,0,50,0
+CRS-000240,Artificial Intelligence,2,47,1,1,0,50,0
+CRS-000241,Python Programming,1,46,1,1,0,60,0
+CRS-000241,Python Programming,2,47,1,1,0,60,0
+CRS-000242,Java Programming,1,54,1,1,0,75,0
+CRS-000242,Java Programming,2,42,1,1,0,75,0
+CRS-000243,Database Management Systems,1,44,1,1,0,60,0
+CRS-000243,Database Management Systems,2,35,1,1,0,60,0
+CRS-000244,Data Structures,1,44,2,2,0,80,0
+CRS-000244,Data Structures,2,41,2,2,0,80,0
+CRS-000245,Computer Networks,1,52,2,2,0,60,0
+CRS-000245,Computer Networks,2,39,2,2,0,60,0
+CRS-000246,Operating Systems,1,41,1,1,0,60,0
+CRS-000246,Operating Systems,2,42,1,1,0,60,0
+CRS-000247,Software Engineering,1,37,1,1,0,60,0
+CRS-000247,Software Engineering,2,42,1,1,0,60,0
+CRS-000248,Web Development,1,42,1,1,0,75,0
+CRS-000248,Web Development,2,31,1,1,0,75,0
+CRS-000249,Machine Learning,1,46,2,2,0,80,0
+CRS-000249,Machine Learning,2,34,1,1,0,40,0
+CRS-000250,Artificial Intelligence,1,39,1,1,0,75,0
+CRS-000250,Artificial Intelligence,2,42,1,1,0,75,0
+CRS-000251,Python Programming,1,35,1,1,0,75,0
+CRS-000251,Python Programming,2,51,1,1,0,75,0
+CRS-000252,Java Programming,1,45,1,1,0,75,0
+CRS-000252,Java Programming,2,37,1,1,0,75,0
+CRS-000253,Database Management Systems,1,46,1,1,0,50,0
+CRS-000253,Database Management Systems,2,48,1,1,0,50,0
+CRS-000254,Data Structures,1,50,1,1,0,75,0
+CRS-000254,Data Structures,2,45,1,1,0,75,0
+CRS-000255,Computer Networks,1,48,1,1,0,50,0
+CRS-000255,Computer Networks,2,37,1,1,0,50,0
+CRS-000256,Operating Systems,1,43,1,1,0,75,0
+CRS-000256,Operating Systems,2,46,1,1,0,75,0
+CRS-000257,Software Engineering,1,56,2,2,0,80,0
+CRS-000257,Software Engineering,2,37,1,1,0,40,0
+CRS-000258,Web Development,1,58,1,1,0,75,0
+CRS-000258,Web Development,2,52,1,1,0,75,0
+CRS-000259,Machine Learning,1,42,1,1,0,75,0
+CRS-000259,Machine Learning,2,42,1,1,0,75,0
+CRS-000260,Artificial Intelligence,1,48,2,2,0,60,0
+CRS-000260,Artificial Intelligence,2,51,2,2,0,60,0
+CRS-000261,Python Programming,1,35,1,1,0,40,0
+CRS-000261,Python Programming,2,39,1,1,0,40,0
+CRS-000262,Java Programming,1,42,1,1,0,75,0
+CRS-000262,Java Programming,2,38,1,1,0,75,0
+CRS-000263,Database Management Systems,1,42,2,2,0,60,0
+CRS-000263,Database Management Systems,2,43,2,2,0,60,0
+CRS-000264,Data Structures,1,45,1,1,0,50,0
+CRS-000264,Data Structures,2,45,1,1,0,50,0
+CRS-000265,Computer Networks,1,52,2,2,0,60,0
+CRS-000265,Computer Networks,2,40,2,2,0,60,0
+CRS-000266,Operating Systems,1,43,2,2,0,80,0
+CRS-000266,Operating Systems,2,44,2,2,0,80,0
+CRS-000267,Software Engineering,1,36,1,1,0,60,0
+CRS-000267,Software Engineering,2,41,1,1,0,60,0
+CRS-000268,Web Development,1,45,1,1,0,50,0
+CRS-000268,Web Development,2,43,1,1,0,50,0
+CRS-000269,Machine Learning,1,42,1,1,0,75,0
+CRS-000269,Machine Learning,2,46,1,1,0,75,0
+CRS-000270,Artificial Intelligence,1,42,2,2,0,80,0
+CRS-000270,Artificial Intelligence,2,42,2,2,0,80,0
+CRS-000271,Python Programming,1,50,2,2,0,60,0
+CRS-000271,Python Programming,2,41,2,2,0,60,0
+CRS-000272,Java Programming,1,39,1,1,0,40,0
+CRS-000272,Java Programming,2,47,2,2,0,80,0
+CRS-000273,Database Management Systems,1,46,1,1,0,60,0
+CRS-000273,Database Management Systems,2,51,1,1,0,60,0
+CRS-000274,Data Structures,1,41,2,2,0,80,0
+CRS-000274,Data Structures,2,46,2,2,0,80,0
+CRS-000275,Computer Networks,1,37,1,1,0,50,0
+CRS-000275,Computer Networks,2,48,1,1,0,50,0
+CRS-000276,Operating Systems,1,42,1,1,0,50,0
+CRS-000276,Operating Systems,2,47,1,1,0,50,0
+CRS-000277,Software Engineering,1,39,1,1,0,75,0
+CRS-000277,Software Engineering,2,41,1,1,0,75,0
+CRS-000278,Web Development,1,31,2,2,0,60,0
+CRS-000278,Web Development,2,50,2,2,0,60,0
+CRS-000279,Machine Learning,1,51,2,2,0,80,0
+CRS-000279,Machine Learning,2,50,2,2,0,80,0
+CRS-000280,Artificial Intelligence,1,34,1,1,0,40,0
+CRS-000280,Artificial Intelligence,2,41,2,2,0,80,0
+CRS-000281,Python Programming,1,38,1,1,0,75,0
+CRS-000281,Python Programming,2,39,1,1,0,75,0
+CRS-000282,Java Programming,1,41,1,1,0,50,0
+CRS-000282,Java Programming,2,49,1,1,0,50,0
+CRS-000283,Database Management Systems,1,39,1,1,0,75,0
+CRS-000283,Database Management Systems,2,36,1,1,0,75,0
+CRS-000284,Data Structures,1,31,2,2,0,60,0
+CRS-000284,Data Structures,2,39,2,2,0,60,0
+CRS-000285,Computer Networks,1,30,1,1,0,40,0
+CRS-000285,Computer Networks,2,46,2,2,0,80,0
+CRS-000286,Operating Systems,1,34,1,1,0,75,0
+CRS-000286,Operating Systems,2,36,1,1,0,75,0
+CRS-000287,Software Engineering,1,38,1,1,0,75,0
+CRS-000287,Software Engineering,2,32,1,1,0,75,0
+CRS-000288,Web Development,1,31,1,1,0,40,0
+CRS-000288,Web Development,2,39,1,1,0,40,0
+CRS-000289,Machine Learning,1,42,2,2,0,80,0
+CRS-000289,Machine Learning,2,35,1,1,0,40,0
+CRS-000290,Artificial Intelligence,1,37,1,1,0,50,0
+CRS-000290,Artificial Intelligence,2,37,1,1,0,50,0
+CRS-000291,Python Programming,1,40,2,2,0,60,0
+CRS-000291,Python Programming,2,46,2,2,0,60,0
+CRS-000292,Java Programming,1,39,2,2,0,60,0
+CRS-000292,Java Programming,2,38,2,2,0,60,0
+CRS-000293,Database Management Systems,1,36,1,1,0,40,0
+CRS-000293,Database Management Systems,2,40,1,1,0,40,0
+CRS-000294,Data Structures,1,41,2,2,0,80,0
+CRS-000294,Data Structures,2,42,2,2,0,80,0
+CRS-000295,Computer Networks,1,31,2,2,0,60,0
+CRS-000295,Computer Networks,2,39,2,2,0,60,0
+CRS-000296,Operating Systems,1,29,1,1,0,75,0
+CRS-000296,Operating Systems,2,47,1,1,0,75,0
+CRS-000297,Software Engineering,1,40,1,1,0,40,0
+CRS-000297,Software Engineering,2,45,2,2,0,80,0
+CRS-000298,Web Development,1,33,1,1,0,40,0
+CRS-000298,Web Development,2,43,2,2,0,80,0
+CRS-000299,Machine Learning,1,29,1,1,0,75,0
+CRS-000299,Machine Learning,2,43,1,1,0,75,0
+CRS-000300,Artificial Intelligence,1,29,1,1,0,60,0
+CRS-000300,Artificial Intelligence,2,46,1,1,0,60,0
+CRS-000301,Python Programming,1,42,2,2,0,60,0
+CRS-000301,Python Programming,2,46,2,2,0,60,0
+CRS-000302,Java Programming,1,43,2,2,0,60,0
+CRS-000302,Java Programming,2,44,2,2,0,60,0
+CRS-000303,Database Management Systems,1,29,1,1,0,60,0
+CRS-000303,Database Management Systems,2,38,1,1,0,60,0
+CRS-000304,Data Structures,1,44,2,2,0,60,0
+CRS-000304,Data Structures,2,46,2,2,0,60,0
+CRS-000305,Computer Networks,1,48,2,2,0,80,0
+CRS-000305,Computer Networks,2,45,2,2,0,80,0
+CRS-000306,Operating Systems,1,43,2,2,0,60,0
+CRS-000306,Operating Systems,2,41,2,2,0,60,0
+CRS-000307,Software Engineering,1,40,1,1,0,75,0
+CRS-000307,Software Engineering,2,49,1,1,0,75,0
+CRS-000308,Web Development,1,41,1,1,0,50,0
+CRS-000308,Web Development,2,43,1,1,0,50,0
+CRS-000309,Machine Learning,1,51,2,2,0,80,0
+CRS-000309,Machine Learning,2,47,2,2,0,80,0
+CRS-000310,Artificial Intelligence,1,37,1,1,0,75,0
+CRS-000310,Artificial Intelligence,2,37,1,1,0,75,0
+CRS-000311,Python Programming,1,44,2,2,0,60,0
+CRS-000311,Python Programming,2,40,2,2,0,60,0
+CRS-000312,Java Programming,1,47,1,1,0,75,0
+CRS-000312,Java Programming,2,44,1,1,0,75,0
+CRS-000313,Database Management Systems,1,41,1,1,0,50,0
+CRS-000313,Database Management Systems,2,43,1,1,0,50,0
+CRS-000314,Data Structures,1,38,1,1,0,75,0
+CRS-000314,Data Structures,2,44,1,1,0,75,0
+CRS-000315,Computer Networks,1,42,2,2,0,60,0
+CRS-000315,Computer Networks,2,45,2,2,0,60,0
+CRS-000316,Operating Systems,1,31,1,1,0,75,0
+CRS-000316,Operating Systems,2,54,1,1,0,75,0
+CRS-000317,Software Engineering,1,45,1,1,0,60,0
+CRS-000317,Software Engineering,2,37,1,1,0,60,0
+CRS-000318,Web Development,1,41,1,1,0,60,0
+CRS-000318,Web Development,2,48,1,1,0,60,0
+CRS-000319,Machine Learning,1,38,1,1,0,60,0
+CRS-000319,Machine Learning,2,45,1,1,0,60,0
+CRS-000320,Artificial Intelligence,1,34,1,1,0,40,0
+CRS-000320,Artificial Intelligence,2,46,2,2,0,80,0
+CRS-000321,Python Programming,1,35,2,2,0,60,0
+CRS-000321,Python Programming,2,45,2,2,0,60,0
+CRS-000322,Java Programming,1,33,1,1,0,50,0
+CRS-000322,Java Programming,2,48,1,1,0,50,0
+CRS-000323,Database Management Systems,1,37,1,1,0,60,0
+CRS-000323,Database Management Systems,2,48,1,1,0,60,0
+CRS-000324,Data Structures,1,42,2,2,0,60,0
+CRS-000324,Data Structures,2,45,2,2,0,60,0
+CRS-000325,Computer Networks,1,39,1,1,0,60,0
+CRS-000325,Computer Networks,2,49,1,1,0,60,0
+CRS-000326,Operating Systems,1,39,1,1,0,40,0
+CRS-000326,Operating Systems,2,43,2,2,0,80,0
+CRS-000327,Software Engineering,1,33,2,2,0,60,0
+CRS-000327,Software Engineering,2,43,2,2,0,60,0
+CRS-000328,Web Development,1,48,1,1,0,50,0
+CRS-000328,Web Development,2,43,1,1,0,50,0
+CRS-000329,Machine Learning,1,30,1,1,0,40,0
+CRS-000329,Machine Learning,2,50,2,2,0,80,0
+CRS-000330,Artificial Intelligence,1,37,1,1,0,50,0
+CRS-000330,Artificial Intelligence,2,51,2,2,0,100,0
+CRS-000331,Python Programming,1,43,1,1,0,50,0
+CRS-000331,Python Programming,2,40,1,1,0,50,0
+CRS-000332,Java Programming,1,42,2,2,0,80,0
+CRS-000332,Java Programming,2,44,2,2,0,80,0
+CRS-000333,Database Management Systems,1,42,1,1,0,50,0
+CRS-000333,Database Management Systems,2,40,1,1,0,50,0
+CRS-000334,Data Structures,1,40,1,1,0,40,0
+CRS-000334,Data Structures,2,39,1,1,0,40,0
+CRS-000335,Computer Networks,1,49,2,2,0,80,0
+CRS-000335,Computer Networks,2,55,2,2,0,80,0
+CRS-000336,Operating Systems,1,48,1,1,0,60,0
+CRS-000336,Operating Systems,2,38,1,1,0,60,0
+CRS-000337,Software Engineering,1,48,1,1,0,50,0
+CRS-000337,Software Engineering,2,44,1,1,0,50,0
+CRS-000338,Web Development,1,46,1,1,0,75,0
+CRS-000338,Web Development,2,47,1,1,0,75,0
+CRS-000339,Machine Learning,1,48,2,2,0,60,0
+CRS-000339,Machine Learning,2,32,2,2,0,60,0
+CRS-000340,Artificial Intelligence,1,40,1,1,0,50,0
+CRS-000340,Artificial Intelligence,2,42,1,1,0,50,0
+CRS-000341,Python Programming,1,31,1,1,0,60,0
+CRS-000341,Python Programming,2,47,1,1,0,60,0
+CRS-000342,Java Programming,1,36,1,1,0,40,0
+CRS-000342,Java Programming,2,37,1,1,0,40,0
+CRS-000343,Database Management Systems,1,36,1,1,0,40,0
+CRS-000343,Database Management Systems,2,41,2,2,0,80,0
+CRS-000344,Data Structures,1,36,2,2,0,60,0
+CRS-000344,Data Structures,2,37,2,2,0,60,0
+CRS-000345,Computer Networks,1,32,1,1,0,40,0
+CRS-000345,Computer Networks,2,45,2,2,0,80,0
+CRS-000346,Operating Systems,1,37,1,1,0,40,0
+CRS-000346,Operating Systems,2,28,1,1,0,40,0
+CRS-000347,Software Engineering,1,35,1,1,0,75,0
+CRS-000347,Software Engineering,2,43,1,1,0,75,0
+CRS-000348,Web Development,1,31,1,1,0,40,0
+CRS-000348,Web Development,2,43,2,2,0,80,0
+CRS-000349,Machine Learning,1,34,1,1,0,60,0
+CRS-000349,Machine Learning,2,41,1,1,0,60,0
+CRS-000350,Artificial Intelligence,1,34,1,1,0,40,0
+CRS-000350,Artificial Intelligence,2,46,2,2,0,80,0
+CRS-000351,Python Programming,1,42,2,2,0,80,0
+CRS-000351,Python Programming,2,47,2,2,0,80,0
+CRS-000352,Java Programming,1,37,1,1,0,60,0
+CRS-000352,Java Programming,2,46,1,1,0,60,0
+CRS-000353,Database Management Systems,1,41,1,1,0,60,0
+CRS-000353,Database Management Systems,2,48,1,1,0,60,0
+CRS-000354,Data Structures,1,36,2,2,0,60,0
+CRS-000354,Data Structures,2,61,3,3,0,90,0
+CRS-000355,Computer Networks,1,39,1,1,0,60,0
+CRS-000355,Computer Networks,2,47,1,1,0,60,0
+CRS-000356,Operating Systems,1,49,2,2,0,60,0
+CRS-000356,Operating Systems,2,57,2,2,0,60,0
+CRS-000357,Software Engineering,1,41,1,1,0,60,0
+CRS-000357,Software Engineering,2,50,1,1,0,60,0
+CRS-000358,Web Development,1,37,2,2,0,60,0
+CRS-000358,Web Development,2,48,2,2,0,60,0
+CRS-000359,Machine Learning,1,33,1,1,0,75,0
+CRS-000359,Machine Learning,2,46,1,1,0,75,0
+CRS-000360,Artificial Intelligence,1,34,1,1,0,40,0
+CRS-000360,Artificial Intelligence,2,54,2,2,0,80,0
+CRS-000361,Python Programming,1,42,1,1,0,50,0
+CRS-000361,Python Programming,2,35,1,1,0,50,0
+CRS-000362,Java Programming,1,46,2,2,0,60,0
+CRS-000362,Java Programming,2,38,2,2,0,60,0
+CRS-000363,Database Management Systems,1,46,1,1,0,75,0
+CRS-000363,Database Management Systems,2,36,1,1,0,75,0
+CRS-000364,Data Structures,1,42,1,1,0,75,0
+CRS-000364,Data Structures,2,33,1,1,0,75,0
+CRS-000365,Computer Networks,1,36,2,2,0,60,0
+CRS-000365,Computer Networks,2,33,2,2,0,60,0
+CRS-000366,Operating Systems,1,39,1,1,0,75,0
+CRS-000366,Operating Systems,2,41,1,1,0,75,0
+CRS-000367,Software Engineering,1,56,2,2,0,80,0
+CRS-000367,Software Engineering,2,36,1,1,0,40,0
+CRS-000368,Web Development,1,48,2,2,0,80,0
+CRS-000368,Web Development,2,53,2,2,0,80,0
+CRS-000369,Machine Learning,1,52,2,2,0,100,0
+CRS-000369,Machine Learning,2,44,1,1,0,50,0
+CRS-000370,Artificial Intelligence,1,43,1,1,0,60,0
+CRS-000370,Artificial Intelligence,2,42,1,1,0,60,0
+CRS-000371,Python Programming,1,44,1,1,0,75,0
+CRS-000371,Python Programming,2,45,1,1,0,75,0
+CRS-000372,Java Programming,1,47,2,2,0,80,0
+CRS-000372,Java Programming,2,53,2,2,0,80,0
+CRS-000373,Database Management Systems,1,41,2,2,0,60,0
+CRS-000373,Database Management Systems,2,56,2,2,0,60,0
+CRS-000374,Data Structures,1,34,1,1,0,75,0
+CRS-000374,Data Structures,2,42,1,1,0,75,0
+CRS-000375,Computer Networks,1,43,1,1,0,75,0
+CRS-000375,Computer Networks,2,56,1,1,0,75,0
+CRS-000376,Operating Systems,1,41,1,1,0,75,0
+CRS-000376,Operating Systems,2,52,1,1,0,75,0
+CRS-000377,Software Engineering,1,41,1,1,0,60,0
+CRS-000377,Software Engineering,2,44,1,1,0,60,0
+CRS-000378,Web Development,1,40,1,1,0,50,0
+CRS-000378,Web Development,2,43,1,1,0,50,0
+CRS-000379,Machine Learning,1,40,2,2,0,60,0
+CRS-000379,Machine Learning,2,48,2,2,0,60,0
+CRS-000380,Artificial Intelligence,1,57,2,2,0,80,0
+CRS-000380,Artificial Intelligence,2,42,2,2,0,80,0
+CRS-000381,Python Programming,1,41,1,1,0,75,0
+CRS-000381,Python Programming,2,37,1,1,0,75,0
+CRS-000382,Java Programming,1,45,1,1,0,50,0
+CRS-000382,Java Programming,2,41,1,1,0,50,0
+CRS-000383,Database Management Systems,1,48,1,1,0,50,0
+CRS-000383,Database Management Systems,2,42,1,1,0,50,0
+CRS-000384,Data Structures,1,48,1,1,0,75,0
+CRS-000384,Data Structures,2,31,1,1,0,75,0
+CRS-000385,Computer Networks,1,46,1,1,0,75,0
+CRS-000385,Computer Networks,2,44,1,1,0,75,0
+CRS-000386,Operating Systems,1,46,1,1,0,60,0
+CRS-000386,Operating Systems,2,47,1,1,0,60,0
+CRS-000387,Software Engineering,1,46,2,2,0,80,0
+CRS-000387,Software Engineering,2,34,1,1,0,40,0
+CRS-000388,Web Development,1,41,2,2,0,60,0
+CRS-000388,Web Development,2,33,2,2,0,60,0
+CRS-000389,Machine Learning,1,51,2,2,0,80,0
+CRS-000389,Machine Learning,2,42,2,2,0,80,0
+CRS-000390,Artificial Intelligence,1,51,2,2,0,80,0
+CRS-000390,Artificial Intelligence,2,34,1,1,0,40,0
+CRS-000391,Python Programming,1,45,1,1,0,75,0
+CRS-000391,Python Programming,2,44,1,1,0,75,0
+CRS-000392,Java Programming,1,36,1,1,0,40,0
+CRS-000392,Java Programming,2,47,2,2,0,80,0
+CRS-000393,Database Management Systems,1,42,2,2,0,80,0
+CRS-000393,Database Management Systems,2,47,2,2,0,80,0
+CRS-000394,Data Structures,1,38,1,1,0,75,0
+CRS-000394,Data Structures,2,55,1,1,0,75,0
+CRS-000395,Computer Networks,1,46,1,1,0,50,0
+CRS-000395,Computer Networks,2,43,1,1,0,50,0
+CRS-000396,Operating Systems,1,38,1,1,0,75,0
+CRS-000396,Operating Systems,2,47,1,1,0,75,0
+CRS-000397,Software Engineering,1,38,1,1,0,75,0
+CRS-000397,Software Engineering,2,41,1,1,0,75,0
+CRS-000398,Web Development,1,41,1,1,0,50,0
+CRS-000398,Web Development,2,43,1,1,0,50,0
+CRS-000399,Machine Learning,1,33,1,1,0,40,0
+CRS-000399,Machine Learning,2,46,2,2,0,80,0
+CRS-000400,Artificial Intelligence,1,37,1,1,0,75,0
+CRS-000400,Artificial Intelligence,2,41,1,1,0,75,0
+CRS-000401,Python Programming,1,50,1,1,0,75,0
+CRS-000401,Python Programming,2,46,1,1,0,75,0
+CRS-000402,Java Programming,1,56,2,2,0,80,0
+CRS-000402,Java Programming,2,44,2,2,0,80,0
+CRS-000403,Database Management Systems,1,52,2,2,0,100,0
+CRS-000403,Database Management Systems,2,40,1,1,0,50,0
+CRS-000404,Data Structures,1,54,2,2,0,100,0
+CRS-000404,Data Structures,2,41,1,1,0,50,0
+CRS-000405,Computer Networks,1,43,1,1,0,75,0
+CRS-000405,Computer Networks,2,38,1,1,0,75,0
+CRS-000406,Operating Systems,1,55,2,2,0,80,0
+CRS-000406,Operating Systems,2,41,2,2,0,80,0
+CRS-000407,Software Engineering,1,55,1,1,0,75,0
+CRS-000407,Software Engineering,2,40,1,1,0,75,0
+CRS-000408,Web Development,1,51,2,2,0,60,0
+CRS-000408,Web Development,2,40,2,2,0,60,0
+CRS-000409,Machine Learning,1,51,1,1,0,75,0
+CRS-000409,Machine Learning,2,41,1,1,0,75,0
+CRS-000410,Artificial Intelligence,1,58,1,1,0,75,0
+CRS-000410,Artificial Intelligence,2,37,1,1,0,75,0
+CRS-000411,Python Programming,1,35,1,1,0,60,0
+CRS-000411,Python Programming,2,47,1,1,0,60,0
+CRS-000412,Java Programming,1,40,1,1,0,60,0
+CRS-000412,Java Programming,2,45,1,1,0,60,0
+CRS-000413,Database Management Systems,1,43,2,2,0,60,0
+CRS-000413,Database Management Systems,2,43,2,2,0,60,0
+CRS-000414,Data Structures,1,47,1,1,0,50,0
+CRS-000414,Data Structures,2,43,1,1,0,50,0
+CRS-000415,Computer Networks,1,47,1,1,0,75,0
+CRS-000415,Computer Networks,2,34,1,1,0,75,0
+CRS-000416,Operating Systems,1,50,1,1,0,50,0
+CRS-000416,Operating Systems,2,44,1,1,0,50,0
+CRS-000417,Software Engineering,1,41,1,1,0,60,0
+CRS-000417,Software Engineering,2,48,1,1,0,60,0
+CRS-000418,Web Development,1,41,1,1,0,75,0
+CRS-000418,Web Development,2,43,1,1,0,75,0
+CRS-000419,Machine Learning,1,36,1,1,0,60,0
+CRS-000419,Machine Learning,2,44,1,1,0,60,0
+CRS-000420,Artificial Intelligence,1,41,2,2,0,60,0
+CRS-000420,Artificial Intelligence,2,47,2,2,0,60,0
+CRS-000421,Python Programming,1,46,2,2,0,60,0
+CRS-000421,Python Programming,2,42,2,2,0,60,0
+CRS-000422,Java Programming,1,43,2,2,0,60,0
+CRS-000422,Java Programming,2,38,2,2,0,60,0
+CRS-000423,Database Management Systems,1,47,1,1,0,50,0
+CRS-000423,Database Management Systems,2,46,1,1,0,50,0
+CRS-000424,Data Structures,1,46,1,1,0,75,0
+CRS-000424,Data Structures,2,44,1,1,0,75,0
+CRS-000425,Computer Networks,1,40,2,2,0,60,0
+CRS-000425,Computer Networks,2,46,2,2,0,60,0
+CRS-000426,Operating Systems,1,51,2,2,0,100,0
+CRS-000426,Operating Systems,2,36,1,1,0,50,0
+CRS-000427,Software Engineering,1,46,2,2,0,60,0
+CRS-000427,Software Engineering,2,48,2,2,0,60,0
+CRS-000428,Web Development,1,46,1,1,0,50,0
+CRS-000428,Web Development,2,37,1,1,0,50,0
+CRS-000429,Machine Learning,1,47,2,2,0,80,0
+CRS-000429,Machine Learning,2,42,2,2,0,80,0
+CRS-000430,Artificial Intelligence,1,40,1,1,0,40,0
+CRS-000430,Artificial Intelligence,2,54,2,2,0,80,0
+CRS-000431,Python Programming,1,46,1,1,0,60,0
+CRS-000431,Python Programming,2,40,1,1,0,60,0
+CRS-000432,Java Programming,1,42,1,1,0,60,0
+CRS-000432,Java Programming,2,41,1,1,0,60,0
+CRS-000433,Database Management Systems,1,39,1,1,0,40,0
+CRS-000433,Database Management Systems,2,52,2,2,0,80,0
+CRS-000434,Data Structures,1,41,1,1,0,60,0
+CRS-000434,Data Structures,2,57,1,1,0,60,0
+CRS-000435,Computer Networks,1,31,1,1,0,75,0
+CRS-000435,Computer Networks,2,45,1,1,0,75,0
+CRS-000436,Operating Systems,1,41,1,1,0,60,0
+CRS-000436,Operating Systems,2,44,1,1,0,60,0
+CRS-000437,Software Engineering,1,46,1,1,0,50,0
+CRS-000437,Software Engineering,2,52,2,2,0,100,0
+CRS-000438,Web Development,1,39,2,2,0,60,0
+CRS-000438,Web Development,2,36,2,2,0,60,0
+CRS-000439,Machine Learning,1,45,1,1,0,50,0
+CRS-000439,Machine Learning,2,38,1,1,0,50,0
+CRS-000440,Artificial Intelligence,1,38,1,1,0,60,0
+CRS-000440,Artificial Intelligence,2,47,1,1,0,60,0
+CRS-000441,Python Programming,1,36,1,1,0,75,0
+CRS-000441,Python Programming,2,44,1,1,0,75,0
+CRS-000442,Java Programming,1,41,1,1,0,50,0
+CRS-000442,Java Programming,2,35,1,1,0,50,0
+CRS-000443,Database Management Systems,1,41,1,1,0,75,0
+CRS-000443,Database Management Systems,2,38,1,1,0,75,0
+CRS-000444,Data Structures,1,49,1,1,0,60,0
+CRS-000444,Data Structures,2,35,1,1,0,60,0
+CRS-000445,Computer Networks,1,42,1,1,0,50,0
+CRS-000445,Computer Networks,2,39,1,1,0,50,0
+CRS-000446,Operating Systems,1,40,2,2,0,60,0
+CRS-000446,Operating Systems,2,41,2,2,0,60,0
+CRS-000447,Software Engineering,1,38,1,1,0,75,0
+CRS-000447,Software Engineering,2,42,1,1,0,75,0
+CRS-000448,Web Development,1,44,2,2,0,80,0
+CRS-000448,Web Development,2,43,2,2,0,80,0
+CRS-000449,Machine Learning,1,43,2,2,0,60,0
+CRS-000449,Machine Learning,2,38,2,2,0,60,0
+CRS-000450,Artificial Intelligence,1,40,1,1,0,75,0
+CRS-000450,Artificial Intelligence,2,37,1,1,0,75,0
+CRS-000451,Python Programming,1,48,1,1,0,60,0
+CRS-000451,Python Programming,2,38,1,1,0,60,0
+CRS-000452,Java Programming,1,48,2,2,0,60,0
+CRS-000452,Java Programming,2,41,2,2,0,60,0
+CRS-000453,Database Management Systems,1,40,1,1,0,60,0
+CRS-000453,Database Management Systems,2,40,1,1,0,60,0
+CRS-000454,Data Structures,1,41,2,2,0,60,0
+CRS-000454,Data Structures,2,44,2,2,0,60,0
+CRS-000455,Computer Networks,1,47,1,1,0,60,0
+CRS-000455,Computer Networks,2,42,1,1,0,60,0
+CRS-000456,Operating Systems,1,48,1,1,0,60,0
+CRS-000456,Operating Systems,2,43,1,1,0,60,0
+CRS-000457,Software Engineering,1,51,1,1,0,60,0
+CRS-000457,Software Engineering,2,44,1,1,0,60,0
+CRS-000458,Web Development,1,51,1,1,0,75,0
+CRS-000458,Web Development,2,34,1,1,0,75,0
+CRS-000459,Machine Learning,1,46,2,2,0,80,0
+CRS-000459,Machine Learning,2,39,1,1,0,40,0
+CRS-000460,Artificial Intelligence,1,35,1,1,0,40,0
+CRS-000460,Artificial Intelligence,2,47,2,2,0,80,0
+CRS-000461,Python Programming,1,40,1,1,0,60,0
+CRS-000461,Python Programming,2,37,1,1,0,60,0
+CRS-000462,Java Programming,1,26,1,1,0,60,0
+CRS-000462,Java Programming,2,43,1,1,0,60,0
+CRS-000463,Database Management Systems,1,32,1,1,0,60,0
+CRS-000463,Database Management Systems,2,38,1,1,0,60,0
+CRS-000464,Data Structures,1,37,1,1,0,40,0
+CRS-000464,Data Structures,2,50,2,2,0,80,0
+CRS-000465,Computer Networks,1,30,1,1,0,40,0
+CRS-000465,Computer Networks,2,48,2,2,0,80,0
+CRS-000466,Operating Systems,1,38,1,1,0,75,0
+CRS-000466,Operating Systems,2,50,1,1,0,75,0
+CRS-000467,Software Engineering,1,37,1,1,0,75,0
+CRS-000467,Software Engineering,2,49,1,1,0,75,0
+CRS-000468,Web Development,1,34,1,1,0,40,0
+CRS-000468,Web Development,2,50,2,2,0,80,0
+CRS-000469,Machine Learning,1,35,1,1,0,75,0
+CRS-000469,Machine Learning,2,54,1,1,0,75,0
+CRS-000470,Artificial Intelligence,1,50,1,1,0,60,0
+CRS-000470,Artificial Intelligence,2,47,1,1,0,60,0
+CRS-000471,Python Programming,1,45,1,1,0,50,0
+CRS-000471,Python Programming,2,38,1,1,0,50,0
+CRS-000472,Java Programming,1,45,1,1,0,75,0
+CRS-000472,Java Programming,2,39,1,1,0,75,0
+CRS-000473,Database Management Systems,1,34,1,1,0,40,0
+CRS-000473,Database Management Systems,2,46,2,2,0,80,0
+CRS-000474,Data Structures,1,38,1,1,0,60,0
+CRS-000474,Data Structures,2,35,1,1,0,60,0
+CRS-000475,Computer Networks,1,36,1,1,0,40,0
+CRS-000475,Computer Networks,2,45,2,2,0,80,0
+CRS-000476,Operating Systems,1,45,1,1,0,60,0
+CRS-000476,Operating Systems,2,39,1,1,0,60,0
+CRS-000477,Software Engineering,1,41,1,1,0,60,0
+CRS-000477,Software Engineering,2,40,1,1,0,60,0
+CRS-000478,Web Development,1,47,1,1,0,75,0
+CRS-000478,Web Development,2,41,1,1,0,75,0
+CRS-000479,Machine Learning,1,44,1,1,0,50,0
+CRS-000479,Machine Learning,2,47,1,1,0,50,0
+CRS-000480,Artificial Intelligence,1,39,1,1,0,50,0
+CRS-000480,Artificial Intelligence,2,46,1,1,0,50,0
+CRS-000481,Python Programming,1,44,1,1,0,50,0
+CRS-000481,Python Programming,2,42,1,1,0,50,0
+CRS-000482,Java Programming,1,51,1,1,0,60,0
+CRS-000482,Java Programming,2,37,1,1,0,60,0
+CRS-000483,Database Management Systems,1,42,2,2,0,80,0
+CRS-000483,Database Management Systems,2,40,1,1,0,40,0
+CRS-000484,Data Structures,1,47,1,1,0,75,0
+CRS-000484,Data Structures,2,35,1,1,0,75,0
+CRS-000485,Computer Networks,1,35,1,1,0,50,0
+CRS-000485,Computer Networks,2,45,1,1,0,50,0
+CRS-000486,Operating Systems,1,40,1,1,0,75,0
+CRS-000486,Operating Systems,2,40,1,1,0,75,0
+CRS-000487,Software Engineering,1,40,1,1,0,75,0
+CRS-000487,Software Engineering,2,38,1,1,0,75,0
+CRS-000488,Web Development,1,38,1,1,0,40,0
+CRS-000488,Web Development,2,37,1,1,0,40,0
+CRS-000489,Machine Learning,1,42,1,1,0,50,0
+CRS-000489,Machine Learning,2,40,1,1,0,50,0
+CRS-000490,Artificial Intelligence,1,47,2,2,0,80,0
+CRS-000490,Artificial Intelligence,2,37,1,1,0,40,0
+CRS-000491,Python Programming,1,47,2,2,0,80,0
+CRS-000491,Python Programming,2,41,2,2,0,80,0
+CRS-000492,Java Programming,1,43,1,1,0,50,0
+CRS-000492,Java Programming,2,41,1,1,0,50,0
+CRS-000493,Database Management Systems,1,45,1,1,0,75,0
+CRS-000493,Database Management Systems,2,50,1,1,0,75,0
+CRS-000494,Data Structures,1,42,1,1,0,60,0
+CRS-000494,Data Structures,2,43,1,1,0,60,0
+CRS-000495,Computer Networks,1,41,1,1,0,50,0
+CRS-000495,Computer Networks,2,49,1,1,0,50,0
+CRS-000496,Operating Systems,1,42,1,1,0,75,0
+CRS-000496,Operating Systems,2,33,1,1,0,75,0
+CRS-000497,Software Engineering,1,48,1,1,0,50,0
+CRS-000497,Software Engineering,2,37,1,1,0,50,0
+CRS-000498,Web Development,1,46,2,2,0,60,0
+CRS-000498,Web Development,2,36,2,2,0,60,0
+CRS-000499,Machine Learning,1,44,2,2,0,60,0
+CRS-000499,Machine Learning,2,43,2,2,0,60,0
+CRS-000500,Artificial Intelligence,1,39,1,1,0,75,0
+CRS-000500,Artificial Intelligence,2,37,1,1,0,75,0
+CRS-000501,Python Programming,1,50,2,2,0,60,0
+CRS-000501,Python Programming,2,39,2,2,0,60,0
+CRS-000502,Java Programming,1,40,1,1,0,75,0
+CRS-000502,Java Programming,2,44,1,1,0,75,0
+CRS-000503,Database Management Systems,1,46,1,1,0,60,0
+CRS-000503,Database Management Systems,2,48,1,1,0,60,0
+CRS-000504,Data Structures,1,42,1,1,0,75,0
+CRS-000504,Data Structures,2,42,1,1,0,75,0
+CRS-000505,Computer Networks,1,42,1,1,0,75,0
+CRS-000505,Computer Networks,2,46,1,1,0,75,0
+CRS-000506,Operating Systems,1,47,1,1,0,75,0
+CRS-000506,Operating Systems,2,46,1,1,0,75,0
+CRS-000507,Software Engineering,1,37,1,1,0,50,0
+CRS-000507,Software Engineering,2,42,1,1,0,50,0
+CRS-000508,Web Development,1,46,2,2,0,60,0
+CRS-000508,Web Development,2,45,2,2,0,60,0
+CRS-000509,Machine Learning,1,47,1,1,0,60,0
+CRS-000509,Machine Learning,2,53,1,1,0,60,0
+CRS-000510,Artificial Intelligence,1,41,1,1,0,50,0
+CRS-000510,Artificial Intelligence,2,41,1,1,0,50,0
+CRS-000511,Python Programming,1,45,1,1,0,75,0
+CRS-000511,Python Programming,2,45,1,1,0,75,0
+CRS-000512,Java Programming,1,37,1,1,0,60,0
+CRS-000512,Java Programming,2,37,1,1,0,60,0
+CRS-000513,Database Management Systems,1,37,1,1,0,60,0
+CRS-000513,Database Management Systems,2,36,1,1,0,60,0
+CRS-000514,Data Structures,1,46,2,2,0,60,0
+CRS-000514,Data Structures,2,37,2,2,0,60,0
+CRS-000515,Computer Networks,1,51,2,2,0,60,0
+CRS-000515,Computer Networks,2,41,2,2,0,60,0
+CRS-000516,Operating Systems,1,42,2,2,0,60,0
+CRS-000516,Operating Systems,2,39,2,2,0,60,0
+CRS-000517,Software Engineering,1,45,1,1,0,50,0
+CRS-000517,Software Engineering,2,38,1,1,0,50,0
+CRS-000518,Web Development,1,45,1,1,0,75,0
+CRS-000518,Web Development,2,38,1,1,0,75,0
+CRS-000519,Machine Learning,1,43,2,2,0,80,0
+CRS-000519,Machine Learning,2,36,1,1,0,40,0
+CRS-000520,Artificial Intelligence,1,46,2,2,0,80,0
+CRS-000520,Artificial Intelligence,2,38,1,1,0,40,0
+CRS-000521,Python Programming,1,37,1,1,0,60,0
+CRS-000521,Python Programming,2,42,1,1,0,60,0
+CRS-000522,Java Programming,1,36,1,1,0,60,0
+CRS-000522,Java Programming,2,45,1,1,0,60,0
+CRS-000523,Database Management Systems,1,55,2,2,0,100,0
+CRS-000523,Database Management Systems,2,46,1,1,0,50,0
+CRS-000524,Data Structures,1,49,2,2,0,60,0
+CRS-000524,Data Structures,2,56,2,2,0,60,0
+CRS-000525,Computer Networks,1,51,2,2,0,100,0
+CRS-000525,Computer Networks,2,44,1,1,0,50,0
+CRS-000526,Operating Systems,1,43,1,1,0,75,0
+CRS-000526,Operating Systems,2,44,1,1,0,75,0
+CRS-000527,Software Engineering,1,49,1,1,0,60,0
+CRS-000527,Software Engineering,2,44,1,1,0,60,0
+CRS-000528,Web Development,1,56,2,2,0,60,0
+CRS-000528,Web Development,2,44,2,2,0,60,0
+CRS-000529,Machine Learning,1,41,2,2,0,60,0
+CRS-000529,Machine Learning,2,42,2,2,0,60,0
+CRS-000530,Artificial Intelligence,1,49,1,1,0,60,0
+CRS-000530,Artificial Intelligence,2,50,1,1,0,60,0
+CRS-000531,Python Programming,1,41,2,2,0,60,0
+CRS-000531,Python Programming,2,42,2,2,0,60,0
+CRS-000532,Java Programming,1,41,1,1,0,75,0
+CRS-000532,Java Programming,2,45,1,1,0,75,0
+CRS-000533,Database Management Systems,1,45,1,1,0,50,0
+CRS-000533,Database Management Systems,2,49,1,1,0,50,0
+CRS-000534,Data Structures,1,54,2,2,0,60,0
+CRS-000534,Data Structures,2,48,2,2,0,60,0
+CRS-000535,Computer Networks,1,49,2,2,0,60,0
+CRS-000535,Computer Networks,2,52,2,2,0,60,0
+CRS-000536,Operating Systems,1,43,1,1,0,75,0
+CRS-000536,Operating Systems,2,54,1,1,0,75,0
+CRS-000537,Software Engineering,1,41,1,1,0,50,0
+CRS-000537,Software Engineering,2,46,1,1,0,50,0
+CRS-000538,Web Development,1,43,1,1,0,75,0
+CRS-000538,Web Development,2,43,1,1,0,75,0
+CRS-000539,Machine Learning,1,42,2,2,0,80,0
+CRS-000539,Machine Learning,2,42,2,2,0,80,0
+CRS-000540,Artificial Intelligence,1,45,1,1,0,60,0
+CRS-000540,Artificial Intelligence,2,39,1,1,0,60,0
+CRS-000541,Python Programming,1,41,2,2,0,60,0
+CRS-000541,Python Programming,2,31,2,2,0,60,0
+CRS-000542,Java Programming,1,39,1,1,0,50,0
+CRS-000542,Java Programming,2,35,1,1,0,50,0
+CRS-000543,Database Management Systems,1,35,1,1,0,40,0
+CRS-000543,Database Management Systems,2,33,1,1,0,40,0
+CRS-000544,Data Structures,1,45,1,1,0,50,0
+CRS-000544,Data Structures,2,37,1,1,0,50,0
+CRS-000545,Computer Networks,1,41,2,2,0,80,0
+CRS-000545,Computer Networks,2,30,1,1,0,40,0
+CRS-000546,Operating Systems,1,48,2,2,0,60,0
+CRS-000546,Operating Systems,2,41,2,2,0,60,0
+CRS-000547,Software Engineering,1,48,1,1,0,50,0
+CRS-000547,Software Engineering,2,34,1,1,0,50,0
+CRS-000548,Web Development,1,51,1,1,0,60,0
+CRS-000548,Web Development,2,38,1,1,0,60,0
+CRS-000549,Machine Learning,1,44,2,2,0,80,0
+CRS-000549,Machine Learning,2,33,1,1,0,40,0
+CRS-000550,Artificial Intelligence,1,43,1,1,0,75,0
+CRS-000550,Artificial Intelligence,2,35,1,1,0,75,0
+CRS-000551,Python Programming,1,35,1,1,0,60,0
+CRS-000551,Python Programming,2,42,1,1,0,60,0
+CRS-000552,Java Programming,1,40,1,1,0,60,0
+CRS-000552,Java Programming,2,45,1,1,0,60,0
+CRS-000553,Database Management Systems,1,31,1,1,0,75,0
+CRS-000553,Database Management Systems,2,33,1,1,0,75,0
+CRS-000554,Data Structures,1,27,1,1,0,75,0
+CRS-000554,Data Structures,2,50,1,1,0,75,0
+CRS-000555,Computer Networks,1,31,1,1,0,50,0
+CRS-000555,Computer Networks,2,37,1,1,0,50,0
+CRS-000556,Operating Systems,1,34,1,1,0,75,0
+CRS-000556,Operating Systems,2,39,1,1,0,75,0
+CRS-000557,Software Engineering,1,35,1,1,0,40,0
+CRS-000557,Software Engineering,2,44,2,2,0,80,0
+CRS-000558,Web Development,1,36,1,1,0,75,0
+CRS-000558,Web Development,2,38,1,1,0,75,0
+CRS-000559,Machine Learning,1,41,1,1,0,75,0
+CRS-000559,Machine Learning,2,34,1,1,0,75,0
+CRS-000560,Artificial Intelligence,1,39,1,1,0,60,0
+CRS-000560,Artificial Intelligence,2,47,1,1,0,60,0
+CRS-000561,Python Programming,1,45,1,1,0,50,0
+CRS-000561,Python Programming,2,46,1,1,0,50,0
+CRS-000562,Java Programming,1,42,2,2,0,60,0
+CRS-000562,Java Programming,2,36,2,2,0,60,0
+CRS-000563,Database Management Systems,1,46,1,1,0,75,0
+CRS-000563,Database Management Systems,2,37,1,1,0,75,0
+CRS-000564,Data Structures,1,45,2,2,0,80,0
+CRS-000564,Data Structures,2,36,1,1,0,40,0
+CRS-000565,Computer Networks,1,46,1,1,0,60,0
+CRS-000565,Computer Networks,2,36,1,1,0,60,0
+CRS-000566,Operating Systems,1,37,1,1,0,50,0
+CRS-000566,Operating Systems,2,47,1,1,0,50,0
+CRS-000567,Software Engineering,1,47,1,1,0,75,0
+CRS-000567,Software Engineering,2,41,1,1,0,75,0
+CRS-000568,Web Development,1,41,1,1,0,50,0
+CRS-000568,Web Development,2,43,1,1,0,50,0
+CRS-000569,Machine Learning,1,54,2,2,0,80,0
+CRS-000569,Machine Learning,2,36,1,1,0,40,0
+CRS-000570,Artificial Intelligence,1,42,2,2,0,80,0
+CRS-000570,Artificial Intelligence,2,48,2,2,0,80,0
+CRS-000571,Python Programming,1,34,1,1,0,40,0
+CRS-000571,Python Programming,2,41,2,2,0,80,0
+CRS-000572,Java Programming,1,41,2,2,0,80,0
+CRS-000572,Java Programming,2,33,1,1,0,40,0
+CRS-000573,Database Management Systems,1,31,1,1,0,60,0
+CRS-000573,Database Management Systems,2,35,1,1,0,60,0
+CRS-000574,Data Structures,1,36,1,1,0,60,0
+CRS-000574,Data Structures,2,42,1,1,0,60,0
+CRS-000575,Computer Networks,1,33,2,2,0,60,0
+CRS-000575,Computer Networks,2,38,2,2,0,60,0
+CRS-000576,Operating Systems,1,41,1,1,0,50,0
+CRS-000576,Operating Systems,2,42,1,1,0,50,0
+CRS-000577,Software Engineering,1,37,1,1,0,60,0
+CRS-000577,Software Engineering,2,41,1,1,0,60,0
+CRS-000578,Web Development,1,39,1,1,0,40,0
+CRS-000578,Web Development,2,37,1,1,0,40,0
+CRS-000579,Machine Learning,1,35,1,1,0,75,0
+CRS-000579,Machine Learning,2,37,1,1,0,75,0
+CRS-000580,Artificial Intelligence,1,40,1,1,0,50,0
+CRS-000580,Artificial Intelligence,2,38,1,1,0,50,0
+CRS-000581,Python Programming,1,40,1,1,0,60,0
+CRS-000581,Python Programming,2,40,1,1,0,60,0
+CRS-000582,Java Programming,1,29,1,1,0,75,0
+CRS-000582,Java Programming,2,56,1,1,0,75,0
+CRS-000583,Database Management Systems,1,35,1,1,0,60,0
+CRS-000583,Database Management Systems,2,49,1,1,0,60,0
+CRS-000584,Data Structures,1,31,1,1,0,75,0
+CRS-000584,Data Structures,2,48,1,1,0,75,0
+CRS-000585,Computer Networks,1,35,2,2,0,60,0
+CRS-000585,Computer Networks,2,45,2,2,0,60,0
+CRS-000586,Operating Systems,1,36,2,2,0,60,0
+CRS-000586,Operating Systems,2,52,2,2,0,60,0
+CRS-000587,Software Engineering,1,41,1,1,0,50,0
+CRS-000587,Software Engineering,2,53,2,2,0,100,0
+CRS-000588,Web Development,1,40,1,1,0,40,0
+CRS-000588,Web Development,2,45,2,2,0,80,0
+CRS-000589,Machine Learning,1,39,2,2,0,60,0
+CRS-000589,Machine Learning,2,48,2,2,0,60,0
+CRS-000590,Artificial Intelligence,1,30,1,1,0,60,0
+CRS-000590,Artificial Intelligence,2,47,1,1,0,60,0
+CRS-000591,Python Programming,1,47,2,2,0,80,0
+CRS-000591,Python Programming,2,44,2,2,0,80,0
+CRS-000592,Java Programming,1,44,2,2,0,60,0
+CRS-000592,Java Programming,2,40,2,2,0,60,0
+CRS-000593,Database Management Systems,1,37,1,1,0,50,0
+CRS-000593,Database Management Systems,2,40,1,1,0,50,0
+CRS-000594,Data Structures,1,47,1,1,0,50,0
+CRS-000594,Data Structures,2,46,1,1,0,50,0
+CRS-000595,Computer Networks,1,42,1,1,0,50,0
+CRS-000595,Computer Networks,2,47,1,1,0,50,0
+CRS-000596,Operating Systems,1,41,1,1,0,50,0
+CRS-000596,Operating Systems,2,41,1,1,0,50,0
+CRS-000597,Software Engineering,1,40,1,1,0,75,0
+CRS-000597,Software Engineering,2,43,1,1,0,75,0
+CRS-000598,Web Development,1,45,1,1,0,50,0
+CRS-000598,Web Development,2,50,1,1,0,50,0
+CRS-000599,Machine Learning,1,45,2,2,0,60,0
+CRS-000599,Machine Learning,2,40,2,2,0,60,0
+CRS-000600,Artificial Intelligence,1,42,1,1,0,60,0
+CRS-000600,Artificial Intelligence,2,53,1,1,0,60,0
+CRS-000601,Python Programming,1,35,1,1,0,40,0
+CRS-000601,Python Programming,2,47,2,2,0,80,0
+CRS-000602,Java Programming,1,37,1,1,0,50,0
+CRS-000602,Java Programming,2,40,1,1,0,50,0
+CRS-000603,Database Management Systems,1,45,1,1,0,75,0
+CRS-000603,Database Management Systems,2,45,1,1,0,75,0
+CRS-000604,Data Structures,1,46,1,1,0,60,0
+CRS-000604,Data Structures,2,42,1,1,0,60,0
+CRS-000605,Computer Networks,1,42,2,2,0,60,0
+CRS-000605,Computer Networks,2,45,2,2,0,60,0
+CRS-000606,Operating Systems,1,43,2,2,0,80,0
+CRS-000606,Operating Systems,2,45,2,2,0,80,0
+CRS-000607,Software Engineering,1,39,2,2,0,60,0
+CRS-000607,Software Engineering,2,41,2,2,0,60,0
+CRS-000608,Web Development,1,38,1,1,0,50,0
+CRS-000608,Web Development,2,42,1,1,0,50,0
+CRS-000609,Machine Learning,1,53,2,2,0,100,0
+CRS-000609,Machine Learning,2,42,1,1,0,50,0
+CRS-000610,Artificial Intelligence,1,41,1,1,0,75,0
+CRS-000610,Artificial Intelligence,2,42,1,1,0,75,0
+CRS-000611,Python Programming,1,42,2,2,0,80,0
+CRS-000611,Python Programming,2,40,1,1,0,40,0
+CRS-000612,Java Programming,1,42,2,2,0,60,0
+CRS-000612,Java Programming,2,41,2,2,0,60,0
+CRS-000613,Database Management Systems,1,42,2,2,0,80,0
+CRS-000613,Database Management Systems,2,40,1,1,0,40,0
+CRS-000614,Data Structures,1,52,2,2,0,80,0
+CRS-000614,Data Structures,2,49,2,2,0,80,0
+CRS-000615,Computer Networks,1,39,1,1,0,50,0
+CRS-000615,Computer Networks,2,48,1,1,0,50,0
+CRS-000616,Operating Systems,1,43,2,2,0,60,0
+CRS-000616,Operating Systems,2,45,2,2,0,60,0
+CRS-000617,Software Engineering,1,37,2,2,0,60,0
+CRS-000617,Software Engineering,2,47,2,2,0,60,0
+CRS-000618,Web Development,1,41,2,2,0,80,0
+CRS-000618,Web Development,2,43,2,2,0,80,0
+CRS-000619,Machine Learning,1,42,2,2,0,80,0
+CRS-000619,Machine Learning,2,44,2,2,0,80,0
+CRS-000620,Artificial Intelligence,1,31,1,1,0,40,0
+CRS-000620,Artificial Intelligence,2,35,1,1,0,40,0
+CRS-000621,Python Programming,1,47,2,2,0,80,0
+CRS-000621,Python Programming,2,44,2,2,0,80,0
+CRS-000622,Java Programming,1,41,2,2,0,80,0
+CRS-000622,Java Programming,2,46,2,2,0,80,0
+CRS-000623,Database Management Systems,1,52,2,2,0,80,0
+CRS-000623,Database Management Systems,2,45,2,2,0,80,0
+CRS-000624,Data Structures,1,55,2,2,0,80,0
+CRS-000624,Data Structures,2,51,2,2,0,80,0
+CRS-000625,Computer Networks,1,43,2,2,0,80,0
+CRS-000625,Computer Networks,2,36,1,1,0,40,0
+CRS-000626,Operating Systems,1,55,2,2,0,60,0
+CRS-000626,Operating Systems,2,38,2,2,0,60,0
+CRS-000627,Software Engineering,1,52,1,1,0,75,0
+CRS-000627,Software Engineering,2,41,1,1,0,75,0
+CRS-000628,Web Development,1,58,1,1,0,60,0
+CRS-000628,Web Development,2,44,1,1,0,60,0
+CRS-000629,Machine Learning,1,47,1,1,0,75,0
+CRS-000629,Machine Learning,2,41,1,1,0,75,0
+CRS-000630,Artificial Intelligence,1,57,2,2,0,80,0
+CRS-000630,Artificial Intelligence,2,48,2,2,0,80,0
+CRS-000631,Python Programming,1,39,1,1,0,75,0
+CRS-000631,Python Programming,2,45,1,1,0,75,0
+CRS-000632,Java Programming,1,52,2,2,0,80,0
+CRS-000632,Java Programming,2,45,2,2,0,80,0
+CRS-000633,Database Management Systems,1,42,1,1,0,50,0
+CRS-000633,Database Management Systems,2,41,1,1,0,50,0
+CRS-000634,Data Structures,1,41,1,1,0,60,0
+CRS-000634,Data Structures,2,45,1,1,0,60,0
+CRS-000635,Computer Networks,1,44,1,1,0,60,0
+CRS-000635,Computer Networks,2,41,1,1,0,60,0
+CRS-000636,Operating Systems,1,34,1,1,0,60,0
+CRS-000636,Operating Systems,2,39,1,1,0,60,0
+CRS-000637,Software Engineering,1,48,2,2,0,80,0
+CRS-000637,Software Engineering,2,39,1,1,0,40,0
+CRS-000638,Web Development,1,53,1,1,0,75,0
+CRS-000638,Web Development,2,44,1,1,0,75,0
+CRS-000639,Machine Learning,1,39,1,1,0,60,0
+CRS-000639,Machine Learning,2,44,1,1,0,60,0
+CRS-000640,Artificial Intelligence,1,45,1,1,0,60,0
+CRS-000640,Artificial Intelligence,2,41,1,1,0,60,0
+CRS-000641,Python Programming,1,40,1,1,0,50,0
+CRS-000641,Python Programming,2,48,1,1,0,50,0
+CRS-000642,Java Programming,1,40,1,1,0,60,0
+CRS-000642,Java Programming,2,47,1,1,0,60,0
+CRS-000643,Database Management Systems,1,42,1,1,0,75,0
+CRS-000643,Database Management Systems,2,56,1,1,0,75,0
+CRS-000644,Data Structures,1,38,1,1,0,50,0
+CRS-000644,Data Structures,2,47,1,1,0,50,0
+CRS-000645,Computer Networks,1,37,1,1,0,40,0
+CRS-000645,Computer Networks,2,45,2,2,0,80,0
+CRS-000646,Operating Systems,1,36,2,2,0,60,0
+CRS-000646,Operating Systems,2,47,2,2,0,60,0
+CRS-000647,Software Engineering,1,41,1,1,0,60,0
+CRS-000647,Software Engineering,2,44,1,1,0,60,0
+CRS-000648,Web Development,1,49,1,1,0,60,0
+CRS-000648,Web Development,2,45,1,1,0,60,0
+CRS-000649,Machine Learning,1,45,2,2,0,60,0
+CRS-000649,Machine Learning,2,41,2,2,0,60,0
+CRS-000650,Artificial Intelligence,1,44,1,1,0,50,0
+CRS-000650,Artificial Intelligence,2,40,1,1,0,50,0
+CRS-000651,Python Programming,1,45,2,2,0,60,0
+CRS-000651,Python Programming,2,47,2,2,0,60,0
+CRS-000652,Java Programming,1,41,1,1,0,50,0
+CRS-000652,Java Programming,2,43,1,1,0,50,0
+CRS-000653,Database Management Systems,1,44,2,2,0,80,0
+CRS-000653,Database Management Systems,2,45,2,2,0,80,0
+CRS-000654,Data Structures,1,39,1,1,0,60,0
+CRS-000654,Data Structures,2,46,1,1,0,60,0
+CRS-000655,Computer Networks,1,43,1,1,0,50,0
+CRS-000655,Computer Networks,2,52,2,2,0,100,0
+CRS-000656,Operating Systems,1,41,1,1,0,75,0
+CRS-000656,Operating Systems,2,44,1,1,0,75,0
+CRS-000657,Software Engineering,1,47,1,1,0,75,0
+CRS-000657,Software Engineering,2,49,1,1,0,75,0
+CRS-000658,Web Development,1,44,1,1,0,75,0
+CRS-000658,Web Development,2,54,1,1,0,75,0
+CRS-000659,Machine Learning,1,36,1,1,0,40,0
+CRS-000659,Machine Learning,2,48,2,2,0,80,0
+CRS-000660,Artificial Intelligence,1,57,1,1,0,60,0
+CRS-000660,Artificial Intelligence,2,50,1,1,0,60,0
+CRS-000661,Python Programming,1,55,2,2,0,80,0
+CRS-000661,Python Programming,2,46,2,2,0,80,0
+CRS-000662,Java Programming,1,44,2,2,0,80,0
+CRS-000662,Java Programming,2,44,2,2,0,80,0
+CRS-000663,Database Management Systems,1,50,2,2,0,60,0
+CRS-000663,Database Management Systems,2,47,2,2,0,60,0
+CRS-000664,Data Structures,1,43,1,1,0,75,0
+CRS-000664,Data Structures,2,51,1,1,0,75,0
+CRS-000665,Computer Networks,1,56,2,2,0,60,0
+CRS-000665,Computer Networks,2,49,2,2,0,60,0
+CRS-000666,Operating Systems,1,43,2,2,0,60,0
+CRS-000666,Operating Systems,2,48,2,2,0,60,0
+CRS-000667,Software Engineering,1,47,1,1,0,75,0
+CRS-000667,Software Engineering,2,42,1,1,0,75,0
+CRS-000668,Web Development,1,54,2,2,0,80,0
+CRS-000668,Web Development,2,37,1,1,0,40,0
+CRS-000669,Machine Learning,1,40,1,1,0,75,0
+CRS-000669,Machine Learning,2,53,1,1,0,75,0
+CRS-000670,Artificial Intelligence,1,49,1,1,0,60,0
+CRS-000670,Artificial Intelligence,2,51,1,1,0,60,0
+CRS-000671,Python Programming,1,50,2,2,0,60,0
+CRS-000671,Python Programming,2,41,2,2,0,60,0
+CRS-000672,Java Programming,1,46,1,1,0,75,0
+CRS-000672,Java Programming,2,49,1,1,0,75,0
+CRS-000673,Database Management Systems,1,48,1,1,0,75,0
+CRS-000673,Database Management Systems,2,39,1,1,0,75,0
+CRS-000674,Data Structures,1,43,1,1,0,50,0
+CRS-000674,Data Structures,2,47,1,1,0,50,0
+CRS-000675,Computer Networks,1,49,1,1,0,60,0
+CRS-000675,Computer Networks,2,49,1,1,0,60,0
+CRS-000676,Operating Systems,1,47,1,1,0,50,0
+CRS-000676,Operating Systems,2,42,1,1,0,50,0
+CRS-000677,Software Engineering,1,45,1,1,0,50,0
+CRS-000677,Software Engineering,2,48,1,1,0,50,0
+CRS-000678,Web Development,1,42,1,1,0,75,0
+CRS-000678,Web Development,2,41,1,1,0,75,0
+CRS-000679,Machine Learning,1,45,2,2,0,60,0
+CRS-000679,Machine Learning,2,42,2,2,0,60,0
+CRS-000680,Artificial Intelligence,1,48,2,2,0,60,0
+CRS-000680,Artificial Intelligence,2,43,2,2,0,60,0
+CRS-000681,Python Programming,1,38,2,2,0,60,0
+CRS-000681,Python Programming,2,51,2,2,0,60,0
+CRS-000682,Java Programming,1,42,2,2,0,60,0
+CRS-000682,Java Programming,2,45,2,2,0,60,0
+CRS-000683,Database Management Systems,1,38,2,2,0,60,0
+CRS-000683,Database Management Systems,2,53,2,2,0,60,0
+CRS-000684,Data Structures,1,33,2,2,0,60,0
+CRS-000684,Data Structures,2,45,2,2,0,60,0
+CRS-000685,Computer Networks,1,35,2,2,0,60,0
+CRS-000685,Computer Networks,2,55,2,2,0,60,0
+CRS-000686,Operating Systems,1,43,2,2,0,60,0
+CRS-000686,Operating Systems,2,60,2,2,0,60,0
+CRS-000687,Software Engineering,1,37,1,1,0,60,0
+CRS-000687,Software Engineering,2,43,1,1,0,60,0
+CRS-000688,Web Development,1,46,1,1,0,60,0
+CRS-000688,Web Development,2,49,1,1,0,60,0
+CRS-000689,Machine Learning,1,42,2,2,0,80,0
+CRS-000689,Machine Learning,2,49,2,2,0,80,0
+CRS-000690,Artificial Intelligence,1,31,1,1,0,50,0
+CRS-000690,Artificial Intelligence,2,55,2,2,0,100,0
+CRS-000691,Python Programming,1,44,1,1,0,75,0
+CRS-000691,Python Programming,2,50,1,1,0,75,0
+CRS-000692,Java Programming,1,39,2,2,0,60,0
+CRS-000692,Java Programming,2,43,2,2,0,60,0
+CRS-000693,Database Management Systems,1,47,1,1,0,60,0
+CRS-000693,Database Management Systems,2,49,1,1,0,60,0
+CRS-000694,Data Structures,1,49,1,1,0,60,0
+CRS-000694,Data Structures,2,42,1,1,0,60,0
+CRS-000695,Computer Networks,1,51,2,2,0,100,0
+CRS-000695,Computer Networks,2,51,2,2,0,100,0
+CRS-000696,Operating Systems,1,49,2,2,0,60,0
+CRS-000696,Operating Systems,2,44,2,2,0,60,0
+CRS-000697,Software Engineering,1,35,2,2,0,60,0
+CRS-000697,Software Engineering,2,46,2,2,0,60,0
+CRS-000698,Web Development,1,54,2,2,0,60,0
+CRS-000698,Web Development,2,39,2,2,0,60,0
+CRS-000699,Machine Learning,1,49,2,2,0,80,0
+CRS-000699,Machine Learning,2,39,1,1,0,40,0
+CRS-000700,Artificial Intelligence,1,44,1,1,0,50,0
+CRS-000700,Artificial Intelligence,2,43,1,1,0,50,0
+CRS-000701,Python Programming,1,38,1,1,0,60,0
+CRS-000701,Python Programming,2,48,1,1,0,60,0
+CRS-000702,Java Programming,1,33,1,1,0,50,0
+CRS-000702,Java Programming,2,38,1,1,0,50,0
+CRS-000703,Database Management Systems,1,42,2,2,0,60,0
+CRS-000703,Database Management Systems,2,39,2,2,0,60,0
+CRS-000704,Data Structures,1,51,1,1,0,75,0
+CRS-000704,Data Structures,2,37,1,1,0,75,0
+CRS-000705,Computer Networks,1,44,1,1,0,60,0
+CRS-000705,Computer Networks,2,29,1,1,0,60,0
+CRS-000706,Operating Systems,1,41,1,1,0,50,0
+CRS-000706,Operating Systems,2,44,1,1,0,50,0
+CRS-000707,Software Engineering,1,40,1,1,0,75,0
+CRS-000707,Software Engineering,2,38,1,1,0,75,0
+CRS-000708,Web Development,1,58,1,1,0,75,0
+CRS-000708,Web Development,2,41,1,1,0,75,0
+CRS-000709,Machine Learning,1,34,1,1,0,40,0
+CRS-000709,Machine Learning,2,42,2,2,0,80,0
+CRS-000710,Artificial Intelligence,1,39,1,1,0,50,0
+CRS-000710,Artificial Intelligence,2,43,1,1,0,50,0
+CRS-000711,Python Programming,1,41,1,1,0,75,0
+CRS-000711,Python Programming,2,32,1,1,0,75,0
+CRS-000712,Java Programming,1,46,1,1,0,50,0
+CRS-000712,Java Programming,2,43,1,1,0,50,0
+CRS-000713,Database Management Systems,1,38,1,1,0,60,0
+CRS-000713,Database Management Systems,2,39,1,1,0,60,0
+CRS-000714,Data Structures,1,37,1,1,0,40,0
+CRS-000714,Data Structures,2,42,2,2,0,80,0
+CRS-000715,Computer Networks,1,42,2,2,0,60,0
+CRS-000715,Computer Networks,2,45,2,2,0,60,0
+CRS-000716,Operating Systems,1,38,1,1,0,75,0
+CRS-000716,Operating Systems,2,34,1,1,0,75,0
+CRS-000717,Software Engineering,1,40,1,1,0,75,0
+CRS-000717,Software Engineering,2,41,1,1,0,75,0
+CRS-000718,Web Development,1,45,2,2,0,80,0
+CRS-000718,Web Development,2,37,1,1,0,40,0
+CRS-000719,Machine Learning,1,42,2,2,0,80,0
+CRS-000719,Machine Learning,2,36,1,1,0,40,0
+CRS-000720,Artificial Intelligence,1,47,2,2,0,80,0
+CRS-000720,Artificial Intelligence,2,42,2,2,0,80,0
+CRS-000721,Python Programming,1,43,2,2,0,60,0
+CRS-000721,Python Programming,2,44,2,2,0,60,0
+CRS-000722,Java Programming,1,51,1,1,0,60,0
+CRS-000722,Java Programming,2,38,1,1,0,60,0
+CRS-000723,Database Management Systems,1,48,2,2,0,60,0
+CRS-000723,Database Management Systems,2,47,2,2,0,60,0
+CRS-000724,Data Structures,1,43,2,2,0,80,0
+CRS-000724,Data Structures,2,50,2,2,0,80,0
+CRS-000725,Computer Networks,1,44,1,1,0,60,0
+CRS-000725,Computer Networks,2,41,1,1,0,60,0
+CRS-000726,Operating Systems,1,47,2,2,0,60,0
+CRS-000726,Operating Systems,2,39,2,2,0,60,0
+CRS-000727,Software Engineering,1,39,1,1,0,75,0
+CRS-000727,Software Engineering,2,49,1,1,0,75,0
+CRS-000728,Web Development,1,53,2,2,0,60,0
+CRS-000728,Web Development,2,41,2,2,0,60,0
+CRS-000729,Machine Learning,1,47,2,2,0,60,0
+CRS-000729,Machine Learning,2,51,2,2,0,60,0
+CRS-000730,Artificial Intelligence,1,43,1,1,0,50,0
+CRS-000730,Artificial Intelligence,2,45,1,1,0,50,0
+CRS-000731,Python Programming,1,68,2,2,0,120,0
+CRS-000731,Python Programming,2,45,1,1,0,60,0
+CRS-000732,Java Programming,1,55,2,2,0,80,0
+CRS-000732,Java Programming,2,47,2,2,0,80,0
+CRS-000733,Database Management Systems,1,49,1,1,0,50,0
+CRS-000733,Database Management Systems,2,46,1,1,0,50,0
+CRS-000734,Data Structures,1,56,2,2,0,100,0
+CRS-000734,Data Structures,2,54,2,2,0,100,0
+CRS-000735,Computer Networks,1,71,2,2,0,80,0
+CRS-000735,Computer Networks,2,31,1,1,0,40,0
+CRS-000736,Operating Systems,1,61,2,2,0,80,0
+CRS-000736,Operating Systems,2,47,2,2,0,80,0
+CRS-000737,Software Engineering,1,55,2,2,0,100,0
+CRS-000737,Software Engineering,2,40,1,1,0,50,0
+CRS-000738,Web Development,1,63,2,2,0,80,0
+CRS-000738,Web Development,2,36,1,1,0,40,0
+CRS-000739,Machine Learning,1,59,2,2,0,80,0
+CRS-000739,Machine Learning,2,41,2,2,0,80,0
+CRS-000740,Artificial Intelligence,1,53,2,2,0,100,0
+CRS-000740,Artificial Intelligence,2,41,1,1,0,50,0
+CRS-000741,Python Programming,1,46,1,1,0,60,0
+CRS-000741,Python Programming,2,36,1,1,0,60,0
+CRS-000742,Java Programming,1,42,1,1,0,60,0
+CRS-000742,Java Programming,2,42,1,1,0,60,0
+CRS-000743,Database Management Systems,1,43,2,2,0,60,0
+CRS-000743,Database Management Systems,2,47,2,2,0,60,0
+CRS-000744,Data Structures,1,45,1,1,0,50,0
+CRS-000744,Data Structures,2,47,1,1,0,50,0
+CRS-000745,Computer Networks,1,34,1,1,0,75,0
+CRS-000745,Computer Networks,2,44,1,1,0,75,0
+CRS-000746,Operating Systems,1,43,2,2,0,60,0
+CRS-000746,Operating Systems,2,47,2,2,0,60,0
+CRS-000747,Software Engineering,1,38,1,1,0,60,0
+CRS-000747,Software Engineering,2,45,1,1,0,60,0
+CRS-000748,Web Development,1,47,2,2,0,80,0
+CRS-000748,Web Development,2,46,2,2,0,80,0
+CRS-000749,Machine Learning,1,50,1,1,0,75,0
+CRS-000749,Machine Learning,2,39,1,1,0,75,0
+CRS-000750,Artificial Intelligence,1,43,2,2,0,60,0
+CRS-000750,Artificial Intelligence,2,46,2,2,0,60,0
+CRS-000751,Python Programming,1,44,1,1,0,75,0
+CRS-000751,Python Programming,2,45,1,1,0,75,0
+CRS-000752,Java Programming,1,37,1,1,0,60,0
+CRS-000752,Java Programming,2,45,1,1,0,60,0
+CRS-000753,Database Management Systems,1,50,2,2,0,60,0
+CRS-000753,Database Management Systems,2,39,2,2,0,60,0
+CRS-000754,Data Structures,1,37,1,1,0,60,0
+CRS-000754,Data Structures,2,52,1,1,0,60,0
+CRS-000755,Computer Networks,1,45,2,2,0,60,0
+CRS-000755,Computer Networks,2,48,2,2,0,60,0
+CRS-000756,Operating Systems,1,49,1,1,0,60,0
+CRS-000756,Operating Systems,2,41,1,1,0,60,0
+CRS-000757,Software Engineering,1,45,2,2,0,60,0
+CRS-000757,Software Engineering,2,40,2,2,0,60,0
+CRS-000758,Web Development,1,45,1,1,0,60,0
+CRS-000758,Web Development,2,46,1,1,0,60,0
+CRS-000759,Machine Learning,1,46,2,2,0,80,0
+CRS-000759,Machine Learning,2,34,1,1,0,40,0
+CRS-000760,Artificial Intelligence,1,51,2,2,0,60,0
+CRS-000760,Artificial Intelligence,2,47,2,2,0,60,0
+CRS-000761,Python Programming,1,48,1,1,0,60,0
+CRS-000761,Python Programming,2,58,1,1,0,60,0
+CRS-000762,Java Programming,1,44,2,2,0,80,0
+CRS-000762,Java Programming,2,43,2,2,0,80,0
+CRS-000763,Database Management Systems,1,43,1,1,0,50,0
+CRS-000763,Database Management Systems,2,49,1,1,0,50,0
+CRS-000764,Data Structures,1,39,1,1,0,60,0
+CRS-000764,Data Structures,2,47,1,1,0,60,0
+CRS-000765,Computer Networks,1,55,2,2,0,100,0
+CRS-000765,Computer Networks,2,58,2,2,0,100,0
+CRS-000766,Operating Systems,1,44,1,1,0,60,0
+CRS-000766,Operating Systems,2,48,1,1,0,60,0
+CRS-000767,Software Engineering,1,39,1,1,0,40,0
+CRS-000767,Software Engineering,2,47,2,2,0,80,0
+CRS-000768,Web Development,1,47,1,1,0,60,0
+CRS-000768,Web Development,2,45,1,1,0,60,0
+CRS-000769,Machine Learning,1,50,2,2,0,80,0
+CRS-000769,Machine Learning,2,60,2,2,0,80,0
+CRS-000770,Artificial Intelligence,1,40,1,1,0,75,0
+CRS-000770,Artificial Intelligence,2,41,1,1,0,75,0
+CRS-000771,Python Programming,1,46,1,1,0,60,0
+CRS-000771,Python Programming,2,41,1,1,0,60,0
+CRS-000772,Java Programming,1,45,1,1,0,75,0
+CRS-000772,Java Programming,2,38,1,1,0,75,0
+CRS-000773,Database Management Systems,1,45,1,1,0,75,0
+CRS-000773,Database Management Systems,2,45,1,1,0,75,0
+CRS-000774,Data Structures,1,44,1,1,0,60,0
+CRS-000774,Data Structures,2,52,1,1,0,60,0
+CRS-000775,Computer Networks,1,44,1,1,0,60,0
+CRS-000775,Computer Networks,2,40,1,1,0,60,0
+CRS-000776,Operating Systems,1,46,1,1,0,60,0
+CRS-000776,Operating Systems,2,47,1,1,0,60,0
+CRS-000777,Software Engineering,1,49,1,1,0,60,0
+CRS-000777,Software Engineering,2,37,1,1,0,60,0
+CRS-000778,Web Development,1,44,1,1,0,60,0
+CRS-000778,Web Development,2,44,1,1,0,60,0
+CRS-000779,Machine Learning,1,43,2,2,0,80,0
+CRS-000779,Machine Learning,2,35,1,1,0,40,0
+CRS-000780,Artificial Intelligence,1,43,1,1,0,50,0
+CRS-000780,Artificial Intelligence,2,42,1,1,0,50,0
+CRS-000781,Python Programming,1,40,1,1,0,75,0
+CRS-000781,Python Programming,2,44,1,1,0,75,0
+CRS-000782,Java Programming,1,43,1,1,0,75,0
+CRS-000782,Java Programming,2,44,1,1,0,75,0
+CRS-000783,Database Management Systems,1,45,1,1,0,50,0
+CRS-000783,Database Management Systems,2,43,1,1,0,50,0
+CRS-000784,Data Structures,1,40,1,1,0,50,0
+CRS-000784,Data Structures,2,37,1,1,0,50,0
+CRS-000785,Computer Networks,1,45,2,2,0,80,0
+CRS-000785,Computer Networks,2,48,2,2,0,80,0
+CRS-000786,Operating Systems,1,43,1,1,0,60,0
+CRS-000786,Operating Systems,2,39,1,1,0,60,0
+CRS-000787,Software Engineering,1,39,2,2,0,60,0
+CRS-000787,Software Engineering,2,46,2,2,0,60,0
+CRS-000788,Web Development,1,42,1,1,0,75,0
+CRS-000788,Web Development,2,34,1,1,0,75,0
+CRS-000789,Machine Learning,1,34,1,1,0,50,0
+CRS-000789,Machine Learning,2,47,1,1,0,50,0
+CRS-000790,Artificial Intelligence,1,49,2,2,0,80,0
+CRS-000790,Artificial Intelligence,2,41,2,2,0,80,0
+CRS-000791,Python Programming,1,47,1,1,0,60,0
+CRS-000791,Python Programming,2,41,1,1,0,60,0
+CRS-000792,Java Programming,1,43,1,1,0,50,0
+CRS-000792,Java Programming,2,49,1,1,0,50,0
+CRS-000793,Database Management Systems,1,44,2,2,0,60,0
+CRS-000793,Database Management Systems,2,47,2,2,0,60,0
+CRS-000794,Data Structures,1,40,1,1,0,40,0
+CRS-000794,Data Structures,2,43,2,2,0,80,0
+CRS-000795,Computer Networks,1,30,1,1,0,40,0
+CRS-000795,Computer Networks,2,42,2,2,0,80,0
+CRS-000796,Operating Systems,1,46,1,1,0,60,0
+CRS-000796,Operating Systems,2,46,1,1,0,60,0
+CRS-000797,Software Engineering,1,45,1,1,0,50,0
+CRS-000797,Software Engineering,2,47,1,1,0,50,0
+CRS-000798,Web Development,1,42,2,2,0,60,0
+CRS-000798,Web Development,2,43,2,2,0,60,0
+CRS-000799,Machine Learning,1,42,1,1,0,50,0
+CRS-000799,Machine Learning,2,42,1,1,0,50,0
+CRS-000800,Artificial Intelligence,1,39,1,1,0,75,0
+CRS-000800,Artificial Intelligence,2,41,1,1,0,75,0
+CRS-000801,Python Programming,1,34,1,1,0,40,0
+CRS-000801,Python Programming,2,33,1,1,0,40,0
+CRS-000802,Java Programming,1,35,1,1,0,40,0
+CRS-000802,Java Programming,2,40,1,1,0,40,0
+CRS-000803,Database Management Systems,1,33,1,1,0,75,0
+CRS-000803,Database Management Systems,2,34,1,1,0,75,0
+CRS-000804,Data Structures,1,35,2,2,0,60,0
+CRS-000804,Data Structures,2,41,2,2,0,60,0
+CRS-000805,Computer Networks,1,36,1,1,0,75,0
+CRS-000805,Computer Networks,2,36,1,1,0,75,0
+CRS-000806,Operating Systems,1,39,1,1,0,60,0
+CRS-000806,Operating Systems,2,38,1,1,0,60,0
+CRS-000807,Software Engineering,1,37,1,1,0,50,0
+CRS-000807,Software Engineering,2,42,1,1,0,50,0
+CRS-000808,Web Development,1,30,1,1,0,40,0
+CRS-000808,Web Development,2,23,1,1,0,40,0
+CRS-000809,Machine Learning,1,35,1,1,0,40,0
+CRS-000809,Machine Learning,2,34,1,1,0,40,0
+CRS-000810,Artificial Intelligence,1,38,1,1,0,60,0
+CRS-000810,Artificial Intelligence,2,37,1,1,0,60,0
+CRS-000811,Python Programming,1,50,1,1,0,50,0
+CRS-000811,Python Programming,2,35,1,1,0,50,0
+CRS-000812,Java Programming,1,38,1,1,0,50,0
+CRS-000812,Java Programming,2,37,1,1,0,50,0
+CRS-000813,Database Management Systems,1,46,1,1,0,75,0
+CRS-000813,Database Management Systems,2,28,1,1,0,75,0
+CRS-000814,Data Structures,1,32,2,2,0,60,0
+CRS-000814,Data Structures,2,44,2,2,0,60,0
+CRS-000815,Computer Networks,1,31,1,1,0,75,0
+CRS-000815,Computer Networks,2,38,1,1,0,75,0
+CRS-000816,Operating Systems,1,33,1,1,0,40,0
+CRS-000816,Operating Systems,2,37,1,1,0,40,0
+CRS-000817,Software Engineering,1,34,1,1,0,40,0
+CRS-000817,Software Engineering,2,37,1,1,0,40,0
+CRS-000818,Web Development,1,25,1,1,0,30,0
+CRS-000818,Web Development,2,44,2,2,0,60,0
+CRS-000819,Machine Learning,1,40,1,1,0,50,0
+CRS-000819,Machine Learning,2,44,1,1,0,50,0
+CRS-000820,Artificial Intelligence,1,32,2,2,0,60,0
+CRS-000820,Artificial Intelligence,2,43,2,2,0,60,0
+CRS-000821,Python Programming,1,43,2,2,0,60,0
+CRS-000821,Python Programming,2,49,2,2,0,60,0
+CRS-000822,Java Programming,1,51,1,1,0,60,0
+CRS-000822,Java Programming,2,49,1,1,0,60,0
+CRS-000823,Database Management Systems,1,49,1,1,0,50,0
+CRS-000823,Database Management Systems,2,35,1,1,0,50,0
+CRS-000824,Data Structures,1,44,2,2,0,80,0
+CRS-000824,Data Structures,2,56,2,2,0,80,0
+CRS-000825,Computer Networks,1,49,1,1,0,75,0
+CRS-000825,Computer Networks,2,44,1,1,0,75,0
+CRS-000826,Operating Systems,1,50,1,1,0,50,0
+CRS-000826,Operating Systems,2,50,1,1,0,50,0
+CRS-000827,Software Engineering,1,46,1,1,0,60,0
+CRS-000827,Software Engineering,2,45,1,1,0,60,0
+CRS-000828,Web Development,1,50,1,1,0,75,0
+CRS-000828,Web Development,2,43,1,1,0,75,0
+CRS-000829,Machine Learning,1,42,2,2,0,80,0
+CRS-000829,Machine Learning,2,42,2,2,0,80,0
+CRS-000830,Artificial Intelligence,1,35,2,2,0,60,0
+CRS-000830,Artificial Intelligence,2,44,2,2,0,60,0
+CRS-000831,Python Programming,1,35,2,2,0,60,0
+CRS-000831,Python Programming,2,43,2,2,0,60,0
+CRS-000832,Java Programming,1,49,1,1,0,60,0
+CRS-000832,Java Programming,2,48,1,1,0,60,0
+CRS-000833,Database Management Systems,1,34,1,1,0,50,0
+CRS-000833,Database Management Systems,2,42,1,1,0,50,0
+CRS-000834,Data Structures,1,43,2,2,0,80,0
+CRS-000834,Data Structures,2,42,2,2,0,80,0
+CRS-000835,Computer Networks,1,41,2,2,0,60,0
+CRS-000835,Computer Networks,2,35,2,2,0,60,0
+CRS-000836,Operating Systems,1,52,2,2,0,80,0
+CRS-000836,Operating Systems,2,41,2,2,0,80,0
+CRS-000837,Software Engineering,1,35,1,1,0,50,0
+CRS-000837,Software Engineering,2,48,1,1,0,50,0
+CRS-000838,Web Development,1,38,1,1,0,75,0
+CRS-000838,Web Development,2,40,1,1,0,75,0
+CRS-000839,Machine Learning,1,41,2,2,0,80,0
+CRS-000839,Machine Learning,2,31,1,1,0,40,0
+CRS-000840,Artificial Intelligence,1,47,1,1,0,50,0
+CRS-000840,Artificial Intelligence,2,53,2,2,0,100,0
+CRS-000841,Python Programming,1,42,2,2,0,80,0
+CRS-000841,Python Programming,2,37,1,1,0,40,0
+CRS-000842,Java Programming,1,43,1,1,0,50,0
+CRS-000842,Java Programming,2,46,1,1,0,50,0
+CRS-000843,Database Management Systems,1,49,1,1,0,60,0
+CRS-000843,Database Management Systems,2,39,1,1,0,60,0
+CRS-000844,Data Structures,1,44,1,1,0,50,0
+CRS-000844,Data Structures,2,37,1,1,0,50,0
+CRS-000845,Computer Networks,1,51,2,2,0,80,0
+CRS-000845,Computer Networks,2,38,1,1,0,40,0
+CRS-000846,Operating Systems,1,49,2,2,0,60,0
+CRS-000846,Operating Systems,2,35,2,2,0,60,0
+CRS-000847,Software Engineering,1,48,1,1,0,50,0
+CRS-000847,Software Engineering,2,43,1,1,0,50,0
+CRS-000848,Web Development,1,46,1,1,0,60,0
+CRS-000848,Web Development,2,41,1,1,0,60,0
+CRS-000849,Machine Learning,1,51,1,1,0,75,0
+CRS-000849,Machine Learning,2,38,1,1,0,75,0
+CRS-000850,Artificial Intelligence,1,47,2,2,0,60,0
+CRS-000850,Artificial Intelligence,2,44,2,2,0,60,0
+CRS-000851,Python Programming,1,42,2,2,0,80,0
+CRS-000851,Python Programming,2,39,1,1,0,40,0
+CRS-000852,Java Programming,1,42,2,2,0,60,0
+CRS-000852,Java Programming,2,41,2,2,0,60,0
+CRS-000853,Database Management Systems,1,48,2,2,0,60,0
+CRS-000853,Database Management Systems,2,43,2,2,0,60,0
+CRS-000854,Data Structures,1,44,2,2,0,80,0
+CRS-000854,Data Structures,2,43,2,2,0,80,0
+CRS-000855,Computer Networks,1,40,1,1,0,50,0
+CRS-000855,Computer Networks,2,40,1,1,0,50,0
+CRS-000856,Operating Systems,1,44,2,2,0,60,0
+CRS-000856,Operating Systems,2,40,2,2,0,60,0
+CRS-000857,Software Engineering,1,50,2,2,0,60,0
+CRS-000857,Software Engineering,2,52,2,2,0,60,0
+CRS-000858,Web Development,1,40,2,2,0,60,0
+CRS-000858,Web Development,2,41,2,2,0,60,0
+CRS-000859,Machine Learning,1,34,1,1,0,40,0
+CRS-000859,Machine Learning,2,51,2,2,0,80,0
+CRS-000860,Artificial Intelligence,1,41,1,1,0,75,0
+CRS-000860,Artificial Intelligence,2,42,1,1,0,75,0
+CRS-000861,Python Programming,1,50,2,2,0,60,0
+CRS-000861,Python Programming,2,45,2,2,0,60,0
+CRS-000862,Java Programming,1,44,1,1,0,50,0
+CRS-000862,Java Programming,2,50,1,1,0,50,0
+CRS-000863,Database Management Systems,1,54,1,1,0,60,0
+CRS-000863,Database Management Systems,2,41,1,1,0,60,0
+CRS-000864,Data Structures,1,54,2,2,0,80,0
+CRS-000864,Data Structures,2,44,2,2,0,80,0
+CRS-000865,Computer Networks,1,52,2,2,0,80,0
+CRS-000865,Computer Networks,2,36,1,1,0,40,0
+CRS-000866,Operating Systems,1,43,2,2,0,60,0
+CRS-000866,Operating Systems,2,51,2,2,0,60,0
+CRS-000867,Software Engineering,1,45,1,1,0,50,0
+CRS-000867,Software Engineering,2,37,1,1,0,50,0
+CRS-000868,Web Development,1,40,1,1,0,60,0
+CRS-000868,Web Development,2,34,1,1,0,60,0
+CRS-000869,Machine Learning,1,56,2,2,0,100,0
+CRS-000869,Machine Learning,2,38,1,1,0,50,0
+CRS-000870,Artificial Intelligence,1,41,1,1,0,75,0
+CRS-000870,Artificial Intelligence,2,39,1,1,0,75,0
+CRS-000871,Python Programming,1,35,1,1,0,60,0
+CRS-000871,Python Programming,2,45,1,1,0,60,0
+CRS-000872,Java Programming,1,30,1,1,0,60,0
+CRS-000872,Java Programming,2,40,1,1,0,60,0
+CRS-000873,Database Management Systems,1,34,1,1,0,75,0
+CRS-000873,Database Management Systems,2,47,1,1,0,75,0
+CRS-000874,Data Structures,1,43,1,1,0,75,0
+CRS-000874,Data Structures,2,35,1,1,0,75,0
+CRS-000875,Computer Networks,1,37,1,1,0,60,0
+CRS-000875,Computer Networks,2,41,1,1,0,60,0
+CRS-000876,Operating Systems,1,36,1,1,0,60,0
+CRS-000876,Operating Systems,2,45,1,1,0,60,0
+CRS-000877,Software Engineering,1,39,1,1,0,50,0
+CRS-000877,Software Engineering,2,43,1,1,0,50,0
+CRS-000878,Web Development,1,40,1,1,0,50,0
+CRS-000878,Web Development,2,38,1,1,0,50,0
+CRS-000879,Machine Learning,1,42,2,2,0,60,0
+CRS-000879,Machine Learning,2,42,2,2,0,60,0
+CRS-000880,Artificial Intelligence,1,37,1,1,0,75,0
+CRS-000880,Artificial Intelligence,2,48,1,1,0,75,0
+CRS-000881,Python Programming,1,45,2,2,0,60,0
+CRS-000881,Python Programming,2,36,2,2,0,60,0
+CRS-000882,Java Programming,1,45,2,2,0,60,0
+CRS-000882,Java Programming,2,31,2,2,0,60,0
+CRS-000883,Database Management Systems,1,41,2,2,0,80,0
+CRS-000883,Database Management Systems,2,28,1,1,0,40,0
+CRS-000884,Data Structures,1,38,1,1,0,50,0
+CRS-000884,Data Structures,2,42,1,1,0,50,0
+CRS-000885,Computer Networks,1,49,1,1,0,75,0
+CRS-000885,Computer Networks,2,39,1,1,0,75,0
+CRS-000886,Operating Systems,1,42,2,2,0,60,0
+CRS-000886,Operating Systems,2,35,2,2,0,60,0
+CRS-000887,Software Engineering,1,37,1,1,0,40,0
+CRS-000887,Software Engineering,2,37,1,1,0,40,0
+CRS-000888,Web Development,1,41,1,1,0,75,0
+CRS-000888,Web Development,2,41,1,1,0,75,0
+CRS-000889,Machine Learning,1,47,1,1,0,50,0
+CRS-000889,Machine Learning,2,32,1,1,0,50,0
+CRS-000890,Artificial Intelligence,1,44,2,2,0,60,0
+CRS-000890,Artificial Intelligence,2,33,2,2,0,60,0
+CRS-000891,Python Programming,1,33,2,2,0,60,0
+CRS-000891,Python Programming,2,46,2,2,0,60,0
+CRS-000892,Java Programming,1,46,1,1,0,60,0
+CRS-000892,Java Programming,2,45,1,1,0,60,0
+CRS-000893,Database Management Systems,1,41,2,2,0,80,0
+CRS-000893,Database Management Systems,2,39,1,1,0,40,0
+CRS-000894,Data Structures,1,40,1,1,0,50,0
+CRS-000894,Data Structures,2,43,1,1,0,50,0
+CRS-000895,Computer Networks,1,37,1,1,0,50,0
+CRS-000895,Computer Networks,2,43,1,1,0,50,0
+CRS-000896,Operating Systems,1,38,1,1,0,75,0
+CRS-000896,Operating Systems,2,41,1,1,0,75,0
+CRS-000897,Software Engineering,1,43,1,1,0,60,0
+CRS-000897,Software Engineering,2,49,1,1,0,60,0
+CRS-000898,Web Development,1,41,2,2,0,60,0
+CRS-000898,Web Development,2,38,2,2,0,60,0
+CRS-000899,Machine Learning,1,35,2,2,0,60,0
+CRS-000899,Machine Learning,2,43,2,2,0,60,0
+CRS-000900,Artificial Intelligence,1,56,1,1,0,60,0
+CRS-000900,Artificial Intelligence,2,44,1,1,0,60,0
+CRS-000901,Python Programming,1,43,2,2,0,60,0
+CRS-000901,Python Programming,2,48,2,2,0,60,0
+CRS-000902,Java Programming,1,51,2,2,0,80,0
+CRS-000902,Java Programming,2,46,2,2,0,80,0
+CRS-000903,Database Management Systems,1,50,1,1,0,75,0
+CRS-000903,Database Management Systems,2,44,1,1,0,75,0
+CRS-000904,Data Structures,1,41,2,2,0,80,0
+CRS-000904,Data Structures,2,52,2,2,0,80,0
+CRS-000905,Computer Networks,1,43,2,2,0,80,0
+CRS-000905,Computer Networks,2,57,2,2,0,80,0
+CRS-000906,Operating Systems,1,43,2,2,0,60,0
+CRS-000906,Operating Systems,2,61,3,3,0,90,0
+CRS-000907,Software Engineering,1,44,2,2,0,80,0
+CRS-000907,Software Engineering,2,36,1,1,0,40,0
+CRS-000908,Web Development,1,51,2,2,0,80,0
+CRS-000908,Web Development,2,46,2,2,0,80,0
+CRS-000909,Machine Learning,1,50,2,2,0,80,0
+CRS-000909,Machine Learning,2,41,2,2,0,80,0
+CRS-000910,Artificial Intelligence,1,48,1,1,0,50,0
+CRS-000910,Artificial Intelligence,2,43,1,1,0,50,0
+CRS-000911,Python Programming,1,38,2,2,0,60,0
+CRS-000911,Python Programming,2,43,2,2,0,60,0
+CRS-000912,Java Programming,1,44,2,2,0,80,0
+CRS-000912,Java Programming,2,42,2,2,0,80,0
+CRS-000913,Database Management Systems,1,40,1,1,0,60,0
+CRS-000913,Database Management Systems,2,38,1,1,0,60,0
+CRS-000914,Data Structures,1,41,2,2,0,60,0
+CRS-000914,Data Structures,2,46,2,2,0,60,0
+CRS-000915,Computer Networks,1,43,1,1,0,75,0
+CRS-000915,Computer Networks,2,35,1,1,0,75,0
+CRS-000916,Operating Systems,1,43,1,1,0,60,0
+CRS-000916,Operating Systems,2,36,1,1,0,60,0
+CRS-000917,Software Engineering,1,39,1,1,0,60,0
+CRS-000917,Software Engineering,2,40,1,1,0,60,0
+CRS-000918,Web Development,1,36,1,1,0,50,0
+CRS-000918,Web Development,2,42,1,1,0,50,0
+CRS-000919,Machine Learning,1,40,1,1,0,60,0
+CRS-000919,Machine Learning,2,43,1,1,0,60,0
+CRS-000920,Artificial Intelligence,1,41,1,1,0,50,0
+CRS-000920,Artificial Intelligence,2,47,1,1,0,50,0
+CRS-000921,Python Programming,1,37,1,1,0,40,0
+CRS-000921,Python Programming,2,37,1,1,0,40,0
+CRS-000922,Java Programming,1,34,1,1,0,50,0
+CRS-000922,Java Programming,2,42,1,1,0,50,0
+CRS-000923,Database Management Systems,1,50,2,2,0,60,0
+CRS-000923,Database Management Systems,2,44,2,2,0,60,0
+CRS-000924,Data Structures,1,37,1,1,0,50,0
+CRS-000924,Data Structures,2,40,1,1,0,50,0
+CRS-000925,Computer Networks,1,47,2,2,0,60,0
+CRS-000925,Computer Networks,2,38,2,2,0,60,0
+CRS-000926,Operating Systems,1,43,2,2,0,60,0
+CRS-000926,Operating Systems,2,41,2,2,0,60,0
+CRS-000927,Software Engineering,1,52,1,1,0,75,0
+CRS-000927,Software Engineering,2,41,1,1,0,75,0
+CRS-000928,Web Development,1,41,1,1,0,75,0
+CRS-000928,Web Development,2,41,1,1,0,75,0
+CRS-000929,Machine Learning,1,51,1,1,0,60,0
+CRS-000929,Machine Learning,2,40,1,1,0,60,0
+CRS-000930,Artificial Intelligence,1,34,1,1,0,50,0
+CRS-000930,Artificial Intelligence,2,36,1,1,0,50,0
+CRS-000931,Python Programming,1,51,2,2,0,80,0
+CRS-000931,Python Programming,2,51,2,2,0,80,0
+CRS-000932,Java Programming,1,43,2,2,0,60,0
+CRS-000932,Java Programming,2,46,2,2,0,60,0
+CRS-000933,Database Management Systems,1,38,1,1,0,50,0
+CRS-000933,Database Management Systems,2,47,1,1,0,50,0
+CRS-000934,Data Structures,1,50,1,1,0,50,0
+CRS-000934,Data Structures,2,53,2,2,0,100,0
+CRS-000935,Computer Networks,1,49,1,1,0,50,0
+CRS-000935,Computer Networks,2,47,1,1,0,50,0
+CRS-000936,Operating Systems,1,59,2,2,0,80,0
+CRS-000936,Operating Systems,2,45,2,2,0,80,0
+CRS-000937,Software Engineering,1,51,2,2,0,60,0
+CRS-000937,Software Engineering,2,46,2,2,0,60,0
+CRS-000938,Web Development,1,46,2,2,0,80,0
+CRS-000938,Web Development,2,43,2,2,0,80,0
+CRS-000939,Machine Learning,1,50,2,2,0,60,0
+CRS-000939,Machine Learning,2,55,2,2,0,60,0
+CRS-000940,Artificial Intelligence,1,61,2,2,0,100,0
+CRS-000940,Artificial Intelligence,2,46,1,1,0,50,0
+CRS-000941,Python Programming,1,30,1,1,0,30,0
+CRS-000941,Python Programming,2,44,2,2,0,60,0
+CRS-000942,Java Programming,1,40,1,1,0,50,0
+CRS-000942,Java Programming,2,48,1,1,0,50,0
+CRS-000943,Database Management Systems,1,35,1,1,0,40,0
+CRS-000943,Database Management Systems,2,49,2,2,0,80,0
+CRS-000944,Data Structures,1,41,1,1,0,50,0
+CRS-000944,Data Structures,2,48,1,1,0,50,0
+CRS-000945,Computer Networks,1,41,2,2,0,60,0
+CRS-000945,Computer Networks,2,45,2,2,0,60,0
+CRS-000946,Operating Systems,1,30,1,1,0,60,0
+CRS-000946,Operating Systems,2,46,1,1,0,60,0
+CRS-000947,Software Engineering,1,37,2,2,0,60,0
+CRS-000947,Software Engineering,2,42,2,2,0,60,0
+CRS-000948,Web Development,1,28,1,1,0,30,0
+CRS-000948,Web Development,2,46,2,2,0,60,0
+CRS-000949,Machine Learning,1,32,2,2,0,60,0
+CRS-000949,Machine Learning,2,55,2,2,0,60,0
+CRS-000950,Artificial Intelligence,1,35,1,1,0,75,0
+CRS-000950,Artificial Intelligence,2,47,1,1,0,75,0
+CRS-000951,Python Programming,1,42,2,2,0,80,0
+CRS-000951,Python Programming,2,46,2,2,0,80,0
+CRS-000952,Java Programming,1,29,1,1,0,50,0
+CRS-000952,Java Programming,2,40,1,1,0,50,0
+CRS-000953,Database Management Systems,1,41,1,1,0,60,0
+CRS-000953,Database Management Systems,2,49,1,1,0,60,0
+CRS-000954,Data Structures,1,49,2,2,0,80,0
+CRS-000954,Data Structures,2,42,2,2,0,80,0
+CRS-000955,Computer Networks,1,42,1,1,0,75,0
+CRS-000955,Computer Networks,2,39,1,1,0,75,0
+CRS-000956,Operating Systems,1,40,1,1,0,75,0
+CRS-000956,Operating Systems,2,54,1,1,0,75,0
+CRS-000957,Software Engineering,1,48,1,1,0,60,0
+CRS-000957,Software Engineering,2,37,1,1,0,60,0
+CRS-000958,Web Development,1,35,2,2,0,60,0
+CRS-000958,Web Development,2,42,2,2,0,60,0
+CRS-000959,Machine Learning,1,46,2,2,0,80,0
+CRS-000959,Machine Learning,2,39,1,1,0,40,0
+CRS-000960,Artificial Intelligence,1,50,1,1,0,60,0
+CRS-000960,Artificial Intelligence,2,38,1,1,0,60,0
+CRS-000961,Python Programming,1,43,2,2,0,60,0
+CRS-000961,Python Programming,2,55,2,2,0,60,0
+CRS-000962,Java Programming,1,38,1,1,0,50,0
+CRS-000962,Java Programming,2,51,2,2,0,100,0
+CRS-000963,Database Management Systems,1,38,1,1,0,75,0
+CRS-000963,Database Management Systems,2,45,1,1,0,75,0
+CRS-000964,Data Structures,1,41,1,1,0,50,0
+CRS-000964,Data Structures,2,48,1,1,0,50,0
+CRS-000965,Computer Networks,1,36,1,1,0,40,0
+CRS-000965,Computer Networks,2,50,2,2,0,80,0
+CRS-000966,Operating Systems,1,42,1,1,0,75,0
+CRS-000966,Operating Systems,2,46,1,1,0,75,0
+CRS-000967,Software Engineering,1,41,2,2,0,80,0
+CRS-000967,Software Engineering,2,45,2,2,0,80,0
+CRS-000968,Web Development,1,36,1,1,0,75,0
+CRS-000968,Web Development,2,47,1,1,0,75,0
+CRS-000969,Machine Learning,1,35,1,1,0,75,0
+CRS-000969,Machine Learning,2,50,1,1,0,75,0
+CRS-000970,Artificial Intelligence,1,43,1,1,0,50,0
+CRS-000970,Artificial Intelligence,2,51,2,2,0,100,0
+CRS-000971,Python Programming,1,36,2,2,0,60,0
+CRS-000971,Python Programming,2,42,2,2,0,60,0
+CRS-000972,Java Programming,1,43,1,1,0,50,0
+CRS-000972,Java Programming,2,49,1,1,0,50,0
+CRS-000973,Database Management Systems,1,45,2,2,0,80,0
+CRS-000973,Database Management Systems,2,47,2,2,0,80,0
+CRS-000974,Data Structures,1,43,2,2,0,60,0
+CRS-000974,Data Structures,2,49,2,1,1,30,19
+CRS-000975,Computer Networks,1,47,2,2,0,80,0
+CRS-000975,Computer Networks,2,41,2,0,2,0,41
+CRS-000976,Operating Systems,1,32,2,2,0,60,0
+CRS-000976,Operating Systems,2,36,2,0,2,0,36
+CRS-000977,Software Engineering,1,47,2,2,0,60,0
+CRS-000977,Software Engineering,2,47,2,0,2,0,47
+CRS-000978,Web Development,1,43,2,2,0,60,0
+CRS-000978,Web Development,2,41,2,0,2,0,41
+CRS-000979,Machine Learning,1,40,1,1,0,75,0
+CRS-000979,Machine Learning,2,50,1,0,1,0,50
+CRS-000980,Artificial Intelligence,1,48,1,0,1,0,48
+CRS-000980,Artificial Intelligence,2,44,1,0,1,0,44
+CRS-000981,Python Programming,1,40,1,0,1,0,40
+CRS-000981,Python Programming,2,36,1,0,1,0,36
+CRS-000982,Java Programming,1,47,1,0,1,0,47
+CRS-000982,Java Programming,2,38,1,0,1,0,38
+CRS-000983,Database Management Systems,1,46,1,0,1,0,46
+CRS-000983,Database Management Systems,2,40,1,0,1,0,40
+CRS-000984,Data Structures,1,46,2,0,2,0,46
+CRS-000984,Data Structures,2,44,2,0,2,0,44
+CRS-000985,Computer Networks,1,49,1,0,1,0,49
+CRS-000985,Computer Networks,2,39,1,0,1,0,39
+CRS-000986,Operating Systems,1,40,1,0,1,0,40
+CRS-000986,Operating Systems,2,45,1,0,1,0,45
+CRS-000987,Software Engineering,1,54,1,0,1,0,54
+CRS-000987,Software Engineering,2,42,1,0,1,0,42
+CRS-000988,Web Development,1,44,1,0,1,0,44
+CRS-000988,Web Development,2,39,1,0,1,0,39
+CRS-000989,Machine Learning,1,37,1,0,1,0,37
+CRS-000989,Machine Learning,2,38,1,0,1,0,38
+CRS-000990,Artificial Intelligence,1,44,2,0,2,0,44
+CRS-000990,Artificial Intelligence,2,34,2,0,2,0,34
+CRS-000991,Python Programming,1,45,1,0,1,0,45
+CRS-000991,Python Programming,2,45,1,0,1,0,45
+CRS-000992,Java Programming,1,51,1,0,1,0,51
+CRS-000992,Java Programming,2,46,1,0,1,0,46
+CRS-000993,Database Management Systems,1,38,1,0,1,0,38
+CRS-000993,Database Management Systems,2,59,2,0,2,0,59
+CRS-000994,Data Structures,1,51,2,0,2,0,51
+CRS-000994,Data Structures,2,43,1,0,1,0,43
+CRS-000995,Computer Networks,1,49,1,0,1,0,49
+CRS-000995,Computer Networks,2,51,1,0,1,0,51
+CRS-000996,Operating Systems,1,49,2,0,2,0,49
+CRS-000996,Operating Systems,2,53,2,0,2,0,53
+CRS-000997,Software Engineering,1,57,2,0,2,0,57
+CRS-000997,Software Engineering,2,41,2,0,2,0,41
+CRS-000998,Web Development,1,51,2,0,2,0,51
+CRS-000998,Web Development,2,43,2,0,2,0,43
+CRS-000999,Machine Learning,1,38,1,0,1,0,38
+CRS-000999,Machine Learning,2,53,2,0,2,0,53
+CRS-001000,Artificial Intelligence,1,37,1,0,1,0,37
+CRS-001000,Artificial Intelligence,2,44,1,0,1,0,44

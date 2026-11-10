@@ -1,0 +1,34 @@
+{
+    "training_year": 2024,
+    "testing_year": 2025,
+    "forecast_year": 2026,
+    "training_records": 2000,
+    "testing_records": 2000,
+    "forecast_records": 2000,
+    "feature_columns": [
+        "academic_year",
+        "semester",
+        "credits",
+        "course_level_encoded",
+        "target_section_size",
+        "lag_1"
+    ],
+    "model": "RandomForestRegressor",
+    "model_metrics": {
+        "mae": 3.01802760906191,
+        "rmse": 3.777724299316186,
+        "r2": 0.699888369094805
+    },
+    "baseline_metrics": {
+        "mae": 4.7065,
+        "rmse": 5.622944068724141,
+        "r2": 0.3351099484311971
+    },
+    "mae": 3.01802760906191,
+    "rmse": 3.777724299316186,
+    "r2": 0.699888369094805,
+    "r2_score": 0.699888369094805,
+    "MAE": 3.01802760906191,
+    "RMSE": 3.777724299316186,
+    "R2": 0.699888369094805
+}

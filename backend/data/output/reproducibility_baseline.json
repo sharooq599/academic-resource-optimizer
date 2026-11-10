@@ -1,0 +1,53 @@
+{
+    "project": "Academic Demand & Resource Optimizer",
+    "random_seed": 20261022,
+    "created_at": "2026-11-10T13:15:37.747597",
+    "comparison_method": "SHA-256",
+    "files": {
+        "data\\output\\course_demand_forecast_2026.csv": {
+            "status": "PRESENT",
+            "size_bytes": 186980,
+            "sha256": "69f1e6449a1fb9d91f9f77c9a8b1ba7a2f27d802d5328da5e7b3353783ec6b8a"
+        },
+        "data\\output\\feature_importance.csv": {
+            "status": "PRESENT",
+            "size_bytes": 224,
+            "sha256": "dc1433582c4a184fca357b3180b48ce160e759a9a691298cc0c22f3568b181b3"
+        },
+        "data\\output\\section_allocations.csv": {
+            "status": "PRESENT",
+            "size_bytes": 351156,
+            "sha256": "3a3e11ce4172f3ed3aaa1c238334721c7a742aefb3c2458dc5e9f9c112ff0a4f"
+        },
+        "data\\output\\unmet_demand.csv": {
+            "status": "PRESENT",
+            "size_bytes": 94986,
+            "sha256": "ef9a308b69263019956422422b19d0dfccd2fa5d41df27aca506d4fa1e06b6e4"
+        },
+        "data\\output\\anomaly_injections.csv": {
+            "status": "PRESENT",
+            "size_bytes": 1421,
+            "sha256": "de4acc51dd88c5f4e835befc05bc59063cebee60a82ade18873f0e9497b4a9e7"
+        },
+        "data\\output\\anomaly_detection_results.csv": {
+            "status": "PRESENT",
+            "size_bytes": 1812,
+            "sha256": "46744037a5478ccae1ac1b0ef1f76d5e4c787496423a65aa05cd941afcb4336c"
+        },
+        "data\\output\\forecast_metrics.json": {
+            "status": "PRESENT",
+            "size_bytes": 884,
+            "sha256": "88897e63d9984c9b70eba1c774e10ec03c9caaab65cf196ee3cab15aadb86130"
+        },
+        "data\\output\\anomaly_detection_metrics.json": {
+            "status": "PRESENT",
+            "size_bytes": 247,
+            "sha256": "4111d1dfb8432bbdf4137f4690bf4775f046b124550f2505cff41df811955583"
+        },
+        "data\\ground_truth\\anomaly_ground_truth.csv": {
+            "status": "PRESENT",
+            "size_bytes": 944,
+            "sha256": "15397b95f8bed792cb23dbda6748859dec8ca01015b997e71dd428cf04b7d1f4"
+        }
+    }
+}

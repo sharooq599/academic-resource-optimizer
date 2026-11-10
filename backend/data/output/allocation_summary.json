@@ -1,0 +1,17 @@
+{
+    "academic_year": 2026,
+    "forecast_records": 2000,
+    "total_predicted_demand": 85653,
+    "total_planned_sections": 2745,
+    "allocated_sections": 2680,
+    "unallocated_sections": 65,
+    "total_allocated_capacity": 124015,
+    "total_unmet_demand": 2112,
+    "active_faculty": 500,
+    "active_rooms": 150,
+    "faculty_assignment_failures": {
+        "NO_COMPATIBLE_FACULTY_ROOM_SLOT": 65
+    },
+    "allocation_algorithm": "Greedy Constraint-Based Allocation",
+    "generated_at": "2026-11-10T12:38:32.107569"
+}

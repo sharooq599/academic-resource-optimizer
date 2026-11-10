@@ -1,0 +1,9 @@
+{
+    "total_synthetic_events": 5,
+    "detected_events": 5,
+    "correctly_classified_events": 5,
+    "missed_events": 0,
+    "classification_accuracy": 1.0,
+    "detection_method": "Rule-Based",
+    "data_source": "SYNTHETIC_TEST_DATA"
+}

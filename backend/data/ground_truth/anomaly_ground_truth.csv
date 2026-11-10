@@ -1,0 +1,6 @@
+anomaly_id,anomaly_type,entity_type,entity_id,source_section_id,expected_condition,injected_condition,is_anomaly,injection_source,seed
+ANM-001,FACULTY_WORKLOAD_EXCEEDED,FACULTY,FAC-000229,SEC-000001445,Weekly workload <= 15,Injected workload = 16,True,SYNTHETIC_TEST_DATA,20261022
+ANM-002,FACULTY_SKILL_MISMATCH,FACULTY,FAC-000366,SEC-000002373,Faculty must possess the course skill,Injected skill_match = False,True,SYNTHETIC_TEST_DATA,20261022
+ANM-003,ROOM_CAPACITY_EXCEEDED,ROOM,ROM-000091,SEC-000001159,Room capacity >= 30,Injected room capacity = 29,True,SYNTHETIC_TEST_DATA,20261022
+ANM-004,FACULTY_TIMETABLE_CONFLICT,FACULTY,FAC-000152,SEC-000000707,Faculty cannot teach overlapping sections,Injected overlapping faculty booking,True,SYNTHETIC_TEST_DATA,20261022
+ANM-005,ROOM_TIMETABLE_CONFLICT,ROOM,ROM-000074,SEC-000000199,Room cannot host overlapping sections,Injected overlapping room booking,True,SYNTHETIC_TEST_DATA,20261022
